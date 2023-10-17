@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Vole</title>
+    </head>
+    <body>
+        <div id="root"></div>
+
+        <!-- this makes me very unhappy, I want to just import one script and be done with it -->
+        <script src="https://apis.google.com/js/api.js"></script>
+        <script src="https://accounts.google.com/gsi/client"></script>
+        <script type="module">
+            import main from "./out/index.js"
+
+            gapi.load('client', async () => {
+                const CLIENT_ID = '58162170342-5o406aotvp1vsoknlu8vdtnboj3latp8.apps.googleusercontent.com'
+                const API_KEY = 'AIzaSyDFuv28UyBhmAffM5ZutuJEitPteZcodlg'
+                const DISCOVERY_DOC = 'https://sheets.googleapis.com/$discovery/rest?version=v4'
+                const SCOPES = 'https://www.googleapis.com/auth/spreadsheets.readonly'
+
+                await gapi.client.init({
+                    apiKey: API_KEY,
+                    discoveryDocs: [DISCOVERY_DOC]
+                })
+            
+                gapi.auth = google.accounts.oauth2.initTokenClient({
+                    client_id: CLIENT_ID,
+                    scope: SCOPES,
+                })
+                
+                main(gapi)
+            })
+        </script>
+    </body>
+</html>
