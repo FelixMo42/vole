@@ -6,7 +6,7 @@ export default async function main(gapi) {
     const ctx: Context = { gapi }
 
     document.getElementById("root").replaceChildren(
-        <img src="./title.png" />,
+        <img src="./assets/title.png" />,
         SignInButton(ctx)
     )
 }
