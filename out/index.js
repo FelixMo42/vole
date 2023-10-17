@@ -1,13 +1,13 @@
-// src/index.ts
+// src/index.tsx
 async function main(gapi) {
   const ctx = { gapi };
   document.getElementById("root").replaceChildren(
+    /* @__PURE__ */ m("img", { src: "./title.png" }),
     SignInButton(ctx)
   );
 }
 function SignInButton(ctx) {
-  const button = m("button", "sign in");
-  button.onclick = () => {
+  return /* @__PURE__ */ m("button", { id: "login", onclick: () => {
     ctx.gapi.auth.callback = async (resp) => {
       if (resp.error !== void 0)
         throw resp;
@@ -18,12 +18,14 @@ function SignInButton(ctx) {
     } else {
       ctx.gapi.auth.requestAccessToken({ prompt: "" });
     }
-  };
-  return button;
+  } }, "SIGN IN");
 }
-function m(tag, ...children) {
+function m(tag, options, children) {
   const el = document.createElement(tag);
-  el.replaceChildren(...children);
+  for (const [key, val] of Object.entries(options)) {
+    el[key] = val;
+  }
+  el.replaceChildren(children);
   return el;
 }
 export {

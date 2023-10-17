@@ -1,0 +1,23 @@
+#login {
+    margin: auto;
+    display: block;
+    width: 100%;
+    max-width: 400px;
+    border-radius: 20px;
+    border: 2px solid white;
+    background: none;
+    color: white;
+    margin-top: 20px;
+    font-size: 1.5em;
+}
+
+body {
+    background-color: black;
+}
+
+img {
+    margin: auto;
+    display: block;
+    max-width: 100%;
+    padding-top: 150px;
+}

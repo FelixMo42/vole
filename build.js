@@ -3,11 +3,12 @@ const { build } = require("esbuild")
 
 function make() {
     build({
-        entryPoints: [ "src/index.ts" ],
+        entryPoints: [ "src/index.tsx" ],
         outfile: "out/index.js",
         platform: "browser",
         format: "esm",
         bundle: true,
+        jsxFactory: 'm',
     })
 }
 
