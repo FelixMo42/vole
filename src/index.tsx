@@ -1,41 +1,31 @@
-interface Context {
-    gapi: any
-}
+import { Event } from "eventmonger"
+import { LoginScreen, LoginScreenState } from "./screens/loginScreen"
+import { PickupScreen, PickupScreenState } from "./screens/pickupsScreen"
+import { render } from "./lib/core"
+
+type Screen = LoginScreenState | PickupScreenState
+
+export const load = Event()
 
 export default async function main(gapi) {
-    const ctx: Context = { gapi }
-
-    document.getElementById("root").replaceChildren(
-        <img src="./assets/title.png" />,
-        SignInButton(ctx)
-    )
-}
-
-function SignInButton(ctx: Context) {
-    return <button id="login" onclick={() => {
-        ctx.gapi.auth.callback = async (resp: any) => {
-            if (resp.error !== undefined) throw (resp)
-            console.log("I'm signed in!")
-        }
-
-        if (ctx.gapi.client.getToken() === null) {
-            ctx.gapi.auth.requestAccessToken({prompt: 'consent'})
-        } else {
-            ctx.gapi.auth.requestAccessToken({prompt: ''})
-        }
-    }}>SIGN IN</button>
-}
-
-function m(tag: string, options: any, children: any) {
-    // create element
-    const el = document.createElement(tag)
-    
-    for (const [key, val] of Object.entries(options)) {
-        el[key] = val
+    const screen: Screen = {
+        name: "Pickup",
+        day: "Tue"
     }
 
-    // add children
-    el.replaceChildren(children)
+    // gapi has been loaded
+    load.fire(gapi)
 
-    return el
+    render({
+        "Pickup" : PickupScreen,
+        "Login" : LoginScreen,
+    }[screen.name](screen))
+}
+
+export interface CoreScreen {
+    gapi: any;
+}
+
+export interface LoggedInScreen {
+    name: string;
 }

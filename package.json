@@ -10,6 +10,7 @@
     "license": "ISC",
     "dependencies": {
         "esbuild": "0.19.4",
+        "eventmonger": "4.1.0",
         "googleapis": "127.0.0"
     }
 }

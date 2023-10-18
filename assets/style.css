@@ -1,8 +1,52 @@
-#login {
+/* COMMON */
+
+body {
+    margin: 0px;
+    background-color: black;
+
+    /* default font stuff */
+    color: #FAEBD7;
+    font-family: 'Open Sans', sans-serif;
+}
+
+* {
+    box-sizing: border-box !important;
+}
+
+.main {
     margin: auto;
+    max-width: 440px;
+    padding: 10px;
+}
+
+.button {
+    padding: 5px 15px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+/* LOGIN SCREEN */
+
+#login-screen img {
+    display: block;
+    max-width: 100%;
+    padding-top: 150px;
+}
+
+#login-screen input {
+    display: block;
+    margin-top: 10px;
+    border-radius: 20px;
+    padding: 5px 15px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    font-size: 1.25em;
+}
+
+#login-screen button {
     display: block;
     width: 100%;
-    max-width: 400px;
     border-radius: 20px;
     border: 2px solid white;
     background: none;
@@ -11,13 +55,65 @@
     font-size: 1.5em;
 }
 
-body {
-    background-color: black;
+/* PICKUPS SCREEN */
+
+#pickup-screen #days {
+    display: flex;
+    flex-direction: row;
 }
 
-img {
-    margin: auto;
-    display: block;
-    max-width: 100%;
-    padding-top: 150px;
+#pickup-screen #days span {
+    padding: 5px;
+    margin: 1px;
+    background-color: #333333;
+    text-align: center;
+    flex: 1;
+}
+
+#pickup-screen #days span.selected {
+    /* background-color: #0089fe; */
+    background-color: #003766;
+}
+
+#pickup-screen #days :first-child {
+    border-radius: 10px 0px 0px 10px;
+}
+
+#pickup-screen #days :last-child {
+    border-radius: 0px 10px 10px 0px;
+}
+
+#pickup-screen #pickups div {
+    display: flex;
+    flex-direction: row;
+    padding: 8px;
+    margin: 1px 0px;
+    justify-content: baseline;
+    align-items:baseline;
+}
+
+#pickup-screen #pickups > div:nth-of-type(even) {
+    background-color: #051428;
+}
+
+#pickup-screen #pickups div .org {
+    font-weight: bold;
+    padding-right: 10px;
+    vertical-align: text-bottom;
+}
+
+#pickup-screen #pickups div .time {
+    flex: 1;
+}
+
+#pickup-screen #pickups div .needed {
+    background-color: #7d0000;
+}
+
+#pickup-screen #pickups div .you {
+    background-color: teal;
+}
+
+#pickup-screen #pickups div .shadow {
+    background-color: #141414;
 }
