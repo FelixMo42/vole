@@ -1,25 +1,23 @@
-import { on } from "eventmonger"
-import { LoggedInScreen } from ".."
+import { off, on } from "eventmonger"
+import { LoggedInScreen, goTo } from ".."
 import { m } from "../lib/core"
 import Sheet from "../lib/sheet"
+import { days, today } from "../lib/utils"
 
 export interface PickupScreenState extends LoggedInScreen {
     name: "Pickup",
     day: string,
 }
 
-const days = ["Mon", "Tue", "Wed", "Thu", "Fri"]
 
-function today() {
-    return days[new Date().getDay() - 1]
-}
 
 export function goToPickupScreen({ day = today() }: { day: string } = { day: today() }) {
     return () => {
-        const ctx = {
+        goTo({
             name: "Pickup",
-            day,
-        }
+            day: day,
+            user: "Felix",
+        })
     }
 }
 
@@ -39,9 +37,16 @@ const pickups = new Sheet({
 function Watch(options) {
     const element = m("div", options, ...options.render())
 
-    on(options.source.update, () => {
-        element.replaceChildren(...options.render())
-    })
+    const callback = () => {
+        if (document.body.contains(element)) {
+            element.replaceChildren(...options.render())
+        } else {
+            console.log("OFFFFFFFF")
+            off(options.source.update, callback)
+        }
+    }
+
+    on(options.source.update, callback)
 
     return element
 }
@@ -59,7 +64,7 @@ export function PickupScreen(ctx: PickupScreenState) {
         <Watch id="pickups" source={pickups} render={() =>
             pickups.get({ day: ctx.day, activity: "food pickup" }).map((pickup) => {
                 const isNeeded = pickup.voles.length === 0
-                const isYou = pickup.voles.includes(ctx.name)
+                const isYou = pickup.voles.includes(ctx.user)
 
                 const buttonText =
                     isNeeded ? "NEEDED" :
