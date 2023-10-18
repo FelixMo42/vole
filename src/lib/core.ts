@@ -1,4 +1,6 @@
-export function m(tag: string, options: any, ...children: any[]) {
+export function m(tag: string | ((options: any, children: any[]) => HTMLElement), options: any, ...children: any[]) {
+    if (typeof tag === "function") return tag(options, children)
+
     const el = document.createElement(tag)
     
     if (options) {

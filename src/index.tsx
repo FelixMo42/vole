@@ -1,20 +1,20 @@
-import { Event } from "eventmonger"
+import { emit } from "eventmonger"
 import { LoginScreen, LoginScreenState } from "./screens/loginScreen"
 import { PickupScreen, PickupScreenState } from "./screens/pickupsScreen"
 import { render } from "./lib/core"
+import { Gapi, gapiInit } from "./lib/gapi"
 
 type Screen = LoginScreenState | PickupScreenState
 
-export const load = Event()
 
-export default async function main(gapi) {
-    const screen: Screen = {
+export default async function main(gapi: Gapi) {
+    const screen: PickupScreenState = {
         name: "Pickup",
         day: "Tue"
     }
 
     // gapi has been loaded
-    load.fire(gapi)
+    emit(gapiInit, gapi)
 
     render({
         "Pickup" : PickupScreen,

@@ -1,4 +1,6 @@
+import { on } from "eventmonger"
 import { LoggedInScreen } from ".."
+import { m } from "../lib/core"
 import Sheet from "../lib/sheet"
 
 export interface PickupScreenState extends LoggedInScreen {
@@ -34,6 +36,16 @@ const pickups = new Sheet({
     })
 })
 
+function Watch(options) {
+    const element = m("div", options, ...options.render())
+
+    on(options.source.update, () => {
+        element.replaceChildren(...options.render())
+    })
+
+    return element
+}
+
 export function PickupScreen(ctx: PickupScreenState) {
     return <div id="pickup-screen" class="main">
         <div id="days">
@@ -44,8 +56,8 @@ export function PickupScreen(ctx: PickupScreenState) {
                 >{day}</span>
             )}
         </div>
-        <div id="pickups">
-            {pickups.get({ day: ctx.day }).map((pickup) => {
+        <Watch id="pickups" source={pickups} render={() =>
+            pickups.get({ day: ctx.day, activity: "food pickup" }).map((pickup) => {
                 const isNeeded = pickup.voles.length === 0
                 const isYou = pickup.voles.includes(ctx.name)
 
@@ -60,13 +72,30 @@ export function PickupScreen(ctx: PickupScreenState) {
                         "shadow button"
 
                 return <div>
-                    <span class="org">{pickup.org}</span>
+                    <span class="org">{getNickname(pickup.org)}</span>
                     <span class="time">{pickup.time}</span>
                     <span class={buttonClass} onclick={() => {}}>{buttonText}</span>
                 </div>
-            })}
-        </div>
+            })
+        } />
     </div>
+}
+
+function getNickname(org: string) {
+    const nicknames = {
+        "Davis Food Co-op": "Co-op",
+        "Davis Farmer's Market": "Farmer's Market",
+        "Sophia's Thai Kitchen": "Sophia's",
+        "Insomnia Cookies": "Insomnia",
+        "Upper Crust Baking Co": "Upper Crust",
+        "Davis Community Meals": "DCM",
+    }
+
+    if (org in nicknames) {
+        return nicknames[org]
+    } else {
+        return org
+    }
 }
 
 function capitilize(text: string) {
