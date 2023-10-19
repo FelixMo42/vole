@@ -1,8 +1,10 @@
-import { Event, emit } from "eventmonger"
+import { emit } from "eventmonger"
 import { LoginScreen, LoginScreenState } from "./screens/loginScreen"
-import { PickupScreen, PickupScreenState } from "./screens/pickupsScreen"
+import { PickupScreen, PickupScreenState } from "./screens/pickupScreen"
 import { render } from "./lib/core"
 import { Gapi, gapiInit } from "./lib/gapi"
+import { getCookie } from "./lib/cookies"
+import { today } from "./lib/utils"
 
 type Screen = LoginScreenState | PickupScreenState
 
@@ -14,20 +16,22 @@ export function goTo(screen: Screen) {
 }
 
 export default async function main(gapi: Gapi) {
-    const screen: Screen = {
-        name: "Pickup",
-        day: "Wed",
-        user: "Felix"
-    }
-
     // gapi has been loaded
     emit(gapiInit, gapi)
 
-    goTo(screen)
-}
+    const user = getCookie("user")
 
-export interface CoreScreen {
-    gapi: any;
+    if (user) {
+        goTo({
+            name: "Pickup",
+            day: today(),
+            user,
+        })
+    } else {
+        goTo({
+            name: "Login"
+        })
+    }
 }
 
 export interface LoggedInScreen {

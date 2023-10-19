@@ -9,18 +9,6 @@ export interface PickupScreenState extends LoggedInScreen {
     day: string,
 }
 
-
-
-export function goToPickupScreen({ day = today() }: { day: string } = { day: today() }) {
-    return () => {
-        goTo({
-            name: "Pickup",
-            day: day,
-            user: "Felix",
-        })
-    }
-}
-
 const pickups = new Sheet({
     sheetId: "1aPaHi5LJ1UB0terT4Tc0XuFE4IIYzjai6d5TM8rtWBQ",
     range: "pickups!A2:H",
@@ -57,7 +45,7 @@ export function PickupScreen(ctx: PickupScreenState) {
             {days.map((day) =>
                 <span
                     class={day == ctx.day ? "selected" : ""}
-                    onclick={goToPickupScreen({ day })}
+                    onclick={() => goTo({ ...ctx, day })}
                 >{day}</span>
             )}
         </div>
