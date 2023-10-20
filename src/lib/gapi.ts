@@ -1,4 +1,4 @@
-import { Event, emit } from "eventmonger"
+import { Event } from "eventmonger"
 
 export interface Gapi {
     client: {
@@ -9,6 +9,14 @@ export interface Gapi {
                         spreadsheetId: string,
                         range: string,
                     }) => Promise<{ result: { values: string[][] } }>
+                    update: (p: {
+                        spreadsheetId: string,
+                        valueInputOption: string,
+                        range: string,
+                        requestBody: {
+                            values: string[][]
+                        }
+                    }) => Promise<void>
                 }
             }
         }

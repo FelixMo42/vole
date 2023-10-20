@@ -21,17 +21,17 @@ export default async function main(gapi: Gapi) {
 
     const user = getCookie("user")
 
-    if (user) {
-        goTo({
-            name: "Pickup",
-            day: today(),
-            user,
-        })
-    } else {
+    // if (user) {
+    //     goTo({
+    //         name: "Pickup",
+    //         day: today(),
+    //         user,
+    //     })
+    // } else {
         goTo({
             name: "Login"
         })
-    }
+    // }
 }
 
 export interface LoggedInScreen {
