@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Search a snapshot of U.S. House and Senate members by name, party, chamber, and next election year.">
+  <title>Congress Directory</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="masthead"><a href="./" class="brand"><span aria-hidden="true">✳</span> Congress Directory</a><span class="edition">119th Congress</span></header>
+  <main>
+    <section class="intro" aria-labelledby="page-title">
+      <p class="eyebrow">THE PEOPLE IN OFFICE</p>
+      <h1 id="page-title">Meet your Congress.</h1>
+      <p class="lede">Explore the members of the U.S. House and Senate.</p>
+      <p class="snapshot">Roster snapshot · November 13, 2026</p>
+    </section>
+    <section aria-label="Find legislators">
+      <form id="filters" class="filters" role="search">
+        <div class="search-field"><label for="search">Search members</label><input id="search" type="search" placeholder="Search by name…" autocomplete="off"></div>
+        <div><label for="chamber">Chamber</label><select id="chamber"><option value="">Both chambers</option><option value="house">House</option><option value="senate">Senate</option></select></div>
+        <div><label for="party">Party</label><select id="party"><option value="">All parties</option><option value="D">Democratic</option><option value="R">Republican</option><option value="I">Independent</option></select></div>
+        <div><label for="year">Next election</label><select id="year"><option value="">All years</option></select></div>
+        <div><label for="sort">Sort by</label><select id="sort"><option value="name">Name A–Z</option><option value="election">Election year</option></select></div>
+      </form>
+      <div class="results-bar"><p id="status" role="status" aria-live="polite">Loading members…</p><button id="reset" type="button">Clear filters</button></div>
+      <p id="error" class="message" role="alert" hidden>We couldn’t load the directory. Please reload the page. For local previews, serve this folder over HTTP (see README.md).</p>
+      <div id="results" class="grid" aria-label="Legislators" aria-busy="true"></div>
+      <div id="empty" class="message" hidden><h2>No members found.</h2><p>Try another name or clear your filters.</p></div>
+      <noscript><p class="message">Enable JavaScript to search this directory, or <a href="db.json">view the raw database</a>.</p></noscript>
+    </section>
+    <aside class="note"><strong>About the election years</strong><p>Years refer to the seat’s next regular election after November 13, 2026, whether or not the current member runs. They do not indicate reelection or predict special elections. House members include territorial delegates and Puerto Rico’s resident commissioner.</p></aside>
+  </main>
+  <footer><span>A public roster. A clearer view.</span><span>Sources: <a href="https://clerk.house.gov/xml/lists/MemberData.xml">House Clerk</a> · <a href="https://www.senate.gov/general/contact_information/senators_cfm.xml">U.S. Senate</a> · <a href="db.json">Download JSON</a></span></footer>
+</body>
+</html>
