@@ -4,3235 +4,4852 @@
             "name": "Aaron Bean",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001314",
+            "state": "FL",
+            "district": "4th"
         },
         {
             "name": "Abraham J. Hamadeh",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "H001098",
+            "state": "AZ",
+            "district": "8th"
         },
         {
             "name": "Adam Gray",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "G000605",
+            "state": "CA",
+            "district": "13th"
         },
         {
             "name": "Adam Smith",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S000510",
+            "state": "WA",
+            "district": "9th"
         },
         {
             "name": "Addison P. McDowell",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001240",
+            "state": "NC",
+            "district": "6th"
         },
         {
             "name": "Adelita S. Grijalva",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "G000606",
+            "state": "AZ",
+            "district": "7th"
         },
         {
             "name": "Adrian Smith",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001172",
+            "state": "NE",
+            "district": "3rd"
         },
         {
             "name": "Adriano Espaillat",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "E000297",
+            "state": "NY",
+            "district": "13th"
         },
         {
             "name": "Aisha Wahab",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "W000832",
+            "state": "CA",
+            "district": "14th"
         },
         {
             "name": "Al Green",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "G000553",
+            "state": "TX",
+            "district": "9th"
         },
         {
             "name": "Alexandria Ocasio-Cortez",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "O000172",
+            "state": "NY",
+            "district": "14th"
         },
         {
             "name": "Alma S. Adams",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "A000370",
+            "state": "NC",
+            "district": "12th"
         },
         {
             "name": "Ami Bera",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001287",
+            "state": "CA",
+            "district": "6th"
         },
         {
             "name": "Analilia Mejia",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001246",
+            "state": "NJ",
+            "district": "11th"
         },
         {
             "name": "Andrea Salinas",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001226",
+            "state": "OR",
+            "district": "6th"
         },
         {
             "name": "Andrew Ogles",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "O000175",
+            "state": "TN",
+            "district": "5th"
         },
         {
             "name": "Andrew R. Garbarino",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "G000597",
+            "state": "NY",
+            "district": "2nd"
         },
         {
             "name": "Andrew S. Clyde",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001116",
+            "state": "GA",
+            "district": "9th"
         },
         {
             "name": "André Carson",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001072",
+            "state": "IN",
+            "district": "7th"
         },
         {
             "name": "Andy Barr",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001282",
+            "state": "KY",
+            "district": "6th"
         },
         {
             "name": "Andy Biggs",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001302",
+            "state": "AZ",
+            "district": "5th"
         },
         {
             "name": "Andy Harris",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "H001052",
+            "state": "MD",
+            "district": "1st"
         },
         {
             "name": "Angie Craig",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001119",
+            "state": "MN",
+            "district": "2nd"
         },
         {
             "name": "Ann Wagner",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "W000812",
+            "state": "MO",
+            "district": "2nd"
         },
         {
             "name": "Anna Paulina Luna",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "L000596",
+            "state": "FL",
+            "district": "13th"
         },
         {
             "name": "April McClain Delaney",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001232",
+            "state": "MD",
+            "district": "6th"
         },
         {
             "name": "Ashley Hinson",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "H001091",
+            "state": "IA",
+            "district": "2nd"
         },
         {
             "name": "August Pfluger",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "P000048",
+            "state": "TX",
+            "district": "11th"
         },
         {
             "name": "Aumua Amata Coleman Radewagen",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "R000600",
+            "state": "AS",
+            "district": "Delegate"
         },
         {
             "name": "Austin Scott",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001189",
+            "state": "GA",
+            "district": "8th"
         },
         {
             "name": "Ayanna Pressley",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "P000617",
+            "state": "MA",
+            "district": "7th"
         },
         {
             "name": "Barry Loudermilk",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "L000583",
+            "state": "GA",
+            "district": "11th"
         },
         {
             "name": "Barry Moore",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001212",
+            "state": "AL",
+            "district": "1st"
         },
         {
             "name": "Becca Balint",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001318",
+            "state": "VT",
+            "district": "At Large"
         },
         {
             "name": "Ben Cline",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001118",
+            "state": "VA",
+            "district": "6th"
         },
         {
             "name": "Bennie G. Thompson",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "T000193",
+            "state": "MS",
+            "district": "2nd"
         },
         {
             "name": "Beth Van Duyne",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "V000134",
+            "state": "TX",
+            "district": "24th"
         },
         {
             "name": "Betty McCollum",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001143",
+            "state": "MN",
+            "district": "4th"
         },
         {
             "name": "Bill Foster",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "F000454",
+            "state": "IL",
+            "district": "11th"
         },
         {
             "name": "Bill Huizenga",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "H001058",
+            "state": "MI",
+            "district": "4th"
         },
         {
             "name": "Blake D. Moore",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001213",
+            "state": "UT",
+            "district": "1st"
         },
         {
             "name": "Bonnie Watson Coleman",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "W000822",
+            "state": "NJ",
+            "district": "12th"
         },
         {
             "name": "Brad Finstad",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "F000475",
+            "state": "MN",
+            "district": "1st"
         },
         {
             "name": "Brad Knott",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "K000405",
+            "state": "NC",
+            "district": "13th"
         },
         {
             "name": "Brad Sherman",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S000344",
+            "state": "CA",
+            "district": "32nd"
         },
         {
             "name": "Bradley Scott Schneider",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001190",
+            "state": "IL",
+            "district": "10th"
         },
         {
             "name": "Brandon Gill",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "G000603",
+            "state": "TX",
+            "district": "26th"
         },
         {
             "name": "Brendan F. Boyle",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001296",
+            "state": "PA",
+            "district": "2nd"
         },
         {
             "name": "Brett Guthrie",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "G000558",
+            "state": "KY",
+            "district": "2nd"
         },
         {
             "name": "Brian Babin",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001291",
+            "state": "TX",
+            "district": "36th"
         },
         {
             "name": "Brian J. Mast",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001199",
+            "state": "FL",
+            "district": "21st"
         },
         {
             "name": "Brian Jack",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "J000311",
+            "state": "GA",
+            "district": "3rd"
         },
         {
             "name": "Brian K. Fitzpatrick",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "F000466",
+            "state": "PA",
+            "district": "1st"
         },
         {
             "name": "Brittany Pettersen",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "P000620",
+            "state": "CO",
+            "district": "7th"
         },
         {
             "name": "Bruce Westerman",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "W000821",
+            "state": "AR",
+            "district": "4th"
         },
         {
             "name": "Bryan Steil",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001213",
+            "state": "WI",
+            "district": "1st"
         },
         {
             "name": "Burgess Owens",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "O000086",
+            "state": "UT",
+            "district": "4th"
         },
         {
             "name": "Byron Donalds",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "D000032",
+            "state": "FL",
+            "district": "19th"
         },
         {
             "name": "Carlos A. Gimenez",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "G000593",
+            "state": "FL",
+            "district": "28th"
         },
         {
             "name": "Carol D. Miller",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001205",
+            "state": "WV",
+            "district": "1st"
         },
         {
             "name": "Celeste Maloy",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001228",
+            "state": "UT",
+            "district": "2nd"
         },
         {
             "name": "Charles J. \"Chuck\" Fleischmann",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "F000459",
+            "state": "TN",
+            "district": "3rd"
         },
         {
             "name": "Chellie Pingree",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "P000597",
+            "state": "ME",
+            "district": "1st"
         },
         {
             "name": "Chip Roy",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "R000614",
+            "state": "TX",
+            "district": "21st"
         },
         {
             "name": "Chris Pappas",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "P000614",
+            "state": "NH",
+            "district": "1st"
         },
         {
             "name": "Chrissy Houlahan",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "H001085",
+            "state": "PA",
+            "district": "6th"
         },
         {
             "name": "Christian D. Menefee",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001245",
+            "state": "TX",
+            "district": "18th"
         },
         {
             "name": "Christopher H. Smith",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S000522",
+            "state": "NJ",
+            "district": "4th"
         },
         {
             "name": "Christopher R. Deluzio",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "D000530",
+            "state": "PA",
+            "district": "17th"
         },
         {
             "name": "Chuck Edwards",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "E000246",
+            "state": "NC",
+            "district": "11th"
         },
         {
             "name": "Claudia Tenney",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "T000478",
+            "state": "NY",
+            "district": "24th"
         },
         {
             "name": "Clay Fuller",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "F000485",
+            "state": "GA",
+            "district": "14th"
         },
         {
             "name": "Clay Higgins",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "H001077",
+            "state": "LA",
+            "district": "3rd"
         },
         {
             "name": "Cleo Fields",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "F000110",
+            "state": "LA",
+            "district": "6th"
         },
         {
             "name": "Cliff Bentz",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B000668",
+            "state": "OR",
+            "district": "2nd"
         },
         {
             "name": "Cory Mills",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001216",
+            "state": "FL",
+            "district": "7th"
         },
         {
             "name": "Craig A. Goldman",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "G000601",
+            "state": "TX",
+            "district": "12th"
         },
         {
             "name": "Dale W. Strong",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001220",
+            "state": "AL",
+            "district": "5th"
         },
         {
             "name": "Dan Crenshaw",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001120",
+            "state": "TX",
+            "district": "2nd"
         },
         {
             "name": "Dan Newhouse",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "N000189",
+            "state": "WA",
+            "district": "4th"
         },
         {
             "name": "Daniel Meuser",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001204",
+            "state": "PA",
+            "district": "9th"
         },
         {
             "name": "Daniel S. Goldman",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "G000599",
+            "state": "NY",
+            "district": "10th"
         },
         {
             "name": "Daniel Webster",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "W000806",
+            "state": "FL",
+            "district": "11th"
         },
         {
             "name": "Danny K. Davis",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "D000096",
+            "state": "IL",
+            "district": "7th"
         },
         {
             "name": "Darin LaHood",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "L000585",
+            "state": "IL",
+            "district": "16th"
         },
         {
             "name": "Darrell Issa",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "I000056",
+            "state": "CA",
+            "district": "48th"
         },
         {
             "name": "Darren Soto",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001200",
+            "state": "FL",
+            "district": "9th"
         },
         {
             "name": "Dave Min",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001241",
+            "state": "CA",
+            "district": "47th"
         },
         {
             "name": "David G. Valadao",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "V000129",
+            "state": "CA",
+            "district": "22nd"
         },
         {
             "name": "David J. Taylor",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "T000490",
+            "state": "OH",
+            "district": "2nd"
         },
         {
             "name": "David Kustoff",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "K000392",
+            "state": "TN",
+            "district": "8th"
         },
         {
             "name": "David P. Joyce",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "J000295",
+            "state": "OH",
+            "district": "14th"
         },
         {
             "name": "David Rouzer",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "R000603",
+            "state": "NC",
+            "district": "7th"
         },
         {
             "name": "David Schweikert",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001183",
+            "state": "AZ",
+            "district": "1st"
         },
         {
             "name": "Debbie Dingell",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "D000624",
+            "state": "MI",
+            "district": "6th"
         },
         {
             "name": "Debbie Wasserman Schultz",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "W000797",
+            "state": "FL",
+            "district": "25th"
         },
         {
             "name": "Deborah K. Ross",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "R000305",
+            "state": "NC",
+            "district": "2nd"
         },
         {
             "name": "Delia C. Ramirez",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "R000617",
+            "state": "IL",
+            "district": "3rd"
         },
         {
             "name": "Derek Schmidt",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001228",
+            "state": "KS",
+            "district": "2nd"
         },
         {
             "name": "Derek Tran",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "T000491",
+            "state": "CA",
+            "district": "45th"
         },
         {
             "name": "Derrick Van Orden",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "V000135",
+            "state": "WI",
+            "district": "3rd"
         },
         {
             "name": "Diana DeGette",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "D000197",
+            "state": "CO",
+            "district": "1st"
         },
         {
             "name": "Diana Harshbarger",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "H001086",
+            "state": "TN",
+            "district": "1st"
         },
         {
             "name": "Dina Titus",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "T000468",
+            "state": "NV",
+            "district": "1st"
         },
         {
             "name": "Don Bacon",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001298",
+            "state": "NE",
+            "district": "2nd"
         },
         {
             "name": "Donald G. Davis",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "D000230",
+            "state": "NC",
+            "district": "1st"
         },
         {
             "name": "Donald Norcross",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "N000188",
+            "state": "NJ",
+            "district": "1st"
         },
         {
             "name": "Donald S. Beyer, Jr.",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001292",
+            "state": "VA",
+            "district": "8th"
         },
         {
             "name": "Doris O. Matsui",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001163",
+            "state": "CA",
+            "district": "7th"
         },
         {
             "name": "Dusty Johnson",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "J000301",
+            "state": "SD",
+            "district": "At Large"
         },
         {
             "name": "Dwight Evans",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "E000296",
+            "state": "PA",
+            "district": "3rd"
         },
         {
             "name": "Earl L. \"Buddy\" Carter",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001103",
+            "state": "GA",
+            "district": "1st"
         },
         {
             "name": "Ed Case",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001055",
+            "state": "HI",
+            "district": "1st"
         },
         {
             "name": "Eleanor Holmes Norton",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "N000147",
+            "state": "DC",
+            "district": "Delegate"
         },
         {
             "name": "Elijah Crane",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001132",
+            "state": "AZ",
+            "district": "2nd"
         },
         {
             "name": "Elise M. Stefanik",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001196",
+            "state": "NY",
+            "district": "21st"
         },
         {
             "name": "Emanuel Cleaver",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001061",
+            "state": "MO",
+            "district": "5th"
         },
         {
             "name": "Emilia Strong Sykes",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001223",
+            "state": "OH",
+            "district": "13th"
         },
         {
             "name": "Emily Randall",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "R000621",
+            "state": "WA",
+            "district": "6th"
         },
         {
             "name": "Eric A. \"Rick\" Crawford",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001087",
+            "state": "AR",
+            "district": "1st"
         },
         {
             "name": "Eric Burlison",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001316",
+            "state": "MO",
+            "district": "7th"
         },
         {
             "name": "Eric Sorensen",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001225",
+            "state": "IL",
+            "district": "17th"
         },
         {
             "name": "Erin Houchin",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "H001093",
+            "state": "IN",
+            "district": "9th"
         },
         {
             "name": "Eugene Simon Vindman",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "V000138",
+            "state": "VA",
+            "district": "7th"
         },
         {
             "name": "Everton Blair Jr.",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001328",
+            "state": "GA",
+            "district": "13th"
         },
         {
             "name": "Frank D. Lucas",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "L000491",
+            "state": "OK",
+            "district": "3rd"
         },
         {
             "name": "Frank J. Mrvan",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001214",
+            "state": "IN",
+            "district": "1st"
         },
         {
             "name": "Frank Pallone, Jr.",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "P000034",
+            "state": "NJ",
+            "district": "6th"
         },
         {
             "name": "Frederica S. Wilson",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "W000808",
+            "state": "FL",
+            "district": "24th"
         },
         {
             "name": "Gabe Amo",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "A000380",
+            "state": "RI",
+            "district": "1st"
         },
         {
             "name": "Gabe Evans",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "E000300",
+            "state": "CO",
+            "district": "8th"
         },
         {
             "name": "Gabe Vasquez",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "V000136",
+            "state": "NM",
+            "district": "2nd"
         },
         {
             "name": "Gary J. Palmer",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "P000609",
+            "state": "AL",
+            "district": "6th"
         },
         {
             "name": "George Latimer",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "L000606",
+            "state": "NY",
+            "district": "16th"
         },
         {
             "name": "George Whitesides",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "W000830",
+            "state": "CA",
+            "district": "27th"
         },
         {
             "name": "Gilbert Ray Cisneros, Jr.",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001123",
+            "state": "CA",
+            "district": "31st"
         },
         {
             "name": "Glenn Grothman",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "G000576",
+            "state": "WI",
+            "district": "6th"
         },
         {
             "name": "Glenn Ivey",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "I000058",
+            "state": "MD",
+            "district": "4th"
         },
         {
             "name": "Glenn Thompson",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "T000467",
+            "state": "PA",
+            "district": "15th"
         },
         {
             "name": "Grace Meng",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001188",
+            "state": "NY",
+            "district": "6th"
         },
         {
             "name": "Greg Casar",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001131",
+            "state": "TX",
+            "district": "35th"
         },
         {
             "name": "Greg Landsman",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "L000601",
+            "state": "OH",
+            "district": "1st"
         },
         {
             "name": "Greg Stanton",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001211",
+            "state": "AZ",
+            "district": "4th"
         },
         {
             "name": "Gregory F. Murphy",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001210",
+            "state": "NC",
+            "district": "3rd"
         },
         {
             "name": "Gregory W. Meeks",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001137",
+            "state": "NY",
+            "district": "5th"
         },
         {
             "name": "Gus M. Bilirakis",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001257",
+            "state": "FL",
+            "district": "12th"
         },
         {
             "name": "Guy Reschenthaler",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "R000610",
+            "state": "PA",
+            "district": "14th"
         },
         {
             "name": "Gwen Moore",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001160",
+            "state": "WI",
+            "district": "4th"
         },
         {
             "name": "H. Morgan Griffith",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "G000568",
+            "state": "VA",
+            "district": "9th"
         },
         {
             "name": "Hakeem S. Jeffries",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "J000294",
+            "state": "NY",
+            "district": "8th"
         },
         {
             "name": "Haley M. Stevens",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001215",
+            "state": "MI",
+            "district": "11th"
         },
         {
             "name": "Harold Rogers",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "R000395",
+            "state": "KY",
+            "district": "5th"
         },
         {
             "name": "Harriet M. Hageman",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "H001096",
+            "state": "WY",
+            "district": "At Large"
         },
         {
             "name": "Henry C. \"Hank\" Johnson, Jr.",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "J000288",
+            "state": "GA",
+            "district": "4th"
         },
         {
             "name": "Henry Cuellar",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001063",
+            "state": "TX",
+            "district": "28th"
         },
         {
             "name": "Herbert C. Conaway, Jr.",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001136",
+            "state": "NJ",
+            "district": "3rd"
         },
         {
             "name": "Hillary J. Scholten",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001221",
+            "state": "MI",
+            "district": "3rd"
         },
         {
             "name": "Ilhan Omar",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "O000173",
+            "state": "MN",
+            "district": "5th"
         },
         {
             "name": "J. French Hill",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "H001072",
+            "state": "AR",
+            "district": "2nd"
         },
         {
             "name": "J. Luis Correa",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001110",
+            "state": "CA",
+            "district": "46th"
         },
         {
             "name": "Jack Bergman",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001301",
+            "state": "MI",
+            "district": "1st"
         },
         {
             "name": "Jahana Hayes",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "H001081",
+            "state": "CT",
+            "district": "5th"
         },
         {
             "name": "Jake Auchincloss",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "A000148",
+            "state": "MA",
+            "district": "4th"
         },
         {
             "name": "Jake Ellzey",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "E000071",
+            "state": "TX",
+            "district": "6th"
         },
         {
             "name": "James A. Himes",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "H001047",
+            "state": "CT",
+            "district": "4th"
         },
         {
             "name": "James C. Moylan",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001219",
+            "state": "GU",
+            "district": "Delegate"
         },
         {
             "name": "James Comer",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001108",
+            "state": "KY",
+            "district": "1st"
         },
         {
             "name": "James E. Clyburn",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C000537",
+            "state": "SC",
+            "district": "6th"
         },
         {
             "name": "James Gallagher",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "G000607",
+            "state": "CA",
+            "district": "1st"
         },
         {
             "name": "James P. McGovern",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M000312",
+            "state": "MA",
+            "district": "2nd"
         },
         {
             "name": "James R. Baird",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001307",
+            "state": "IN",
+            "district": "4th"
         },
         {
             "name": "James R. Walkinshaw",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "W000831",
+            "state": "VA",
+            "district": "11th"
         },
         {
             "name": "Jamie Raskin",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "R000606",
+            "state": "MD",
+            "district": "8th"
         },
         {
             "name": "Janelle S. Bynum",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001326",
+            "state": "OR",
+            "district": "5th"
         },
         {
             "name": "Janice D. Schakowsky",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001145",
+            "state": "IL",
+            "district": "9th"
         },
         {
             "name": "Jared F. Golden",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "G000592",
+            "state": "ME",
+            "district": "2nd"
         },
         {
             "name": "Jared Huffman",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "H001068",
+            "state": "CA",
+            "district": "2nd"
         },
         {
             "name": "Jared Moskowitz",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001217",
+            "state": "FL",
+            "district": "23rd"
         },
         {
             "name": "Jasmine Crockett",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001130",
+            "state": "TX",
+            "district": "30th"
         },
         {
             "name": "Jason Crow",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001121",
+            "state": "CO",
+            "district": "6th"
         },
         {
             "name": "Jason Smith",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001195",
+            "state": "MO",
+            "district": "8th"
         },
         {
             "name": "Jay Obernolte",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "O000019",
+            "state": "CA",
+            "district": "23rd"
         },
         {
             "name": "Jeff Crank",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001137",
+            "state": "CO",
+            "district": "5th"
         },
         {
             "name": "Jeff Hurd",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "H001100",
+            "state": "CO",
+            "district": "3rd"
         },
         {
             "name": "Jefferson Shreve",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001229",
+            "state": "IN",
+            "district": "6th"
         },
         {
             "name": "Jefferson Van Drew",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "V000133",
+            "state": "NJ",
+            "district": "2nd"
         },
         {
             "name": "Jennifer A. Kiggans",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "K000399",
+            "state": "VA",
+            "district": "2nd"
         },
         {
             "name": "Jennifer L. McClellan",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001227",
+            "state": "VA",
+            "district": "4th"
         },
         {
             "name": "Jerrold Nadler",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "N000002",
+            "state": "NY",
+            "district": "12th"
         },
         {
             "name": "Jesús G. \"Chuy\" García",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "G000586",
+            "state": "IL",
+            "district": "4th"
         },
         {
             "name": "Jill N. Tokuda",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "T000487",
+            "state": "HI",
+            "district": "2nd"
         },
         {
             "name": "Jim Costa",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001059",
+            "state": "CA",
+            "district": "21st"
         },
         {
             "name": "Jim Jordan",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "J000289",
+            "state": "OH",
+            "district": "4th"
         },
         {
             "name": "Jimmy Gomez",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "G000585",
+            "state": "CA",
+            "district": "34th"
         },
         {
             "name": "Jimmy Panetta",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "P000613",
+            "state": "CA",
+            "district": "19th"
         },
         {
             "name": "Jimmy Patronis",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "P000622",
+            "state": "FL",
+            "district": "1st"
         },
         {
             "name": "Joaquin Castro",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001091",
+            "state": "TX",
+            "district": "20th"
         },
         {
             "name": "Jodey C. Arrington",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "A000375",
+            "state": "TX",
+            "district": "19th"
         },
         {
             "name": "Joe Courtney",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001069",
+            "state": "CT",
+            "district": "2nd"
         },
         {
             "name": "Joe Neguse",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "N000191",
+            "state": "CO",
+            "district": "2nd"
         },
         {
             "name": "Joe Wilson",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "W000795",
+            "state": "SC",
+            "district": "2nd"
         },
         {
             "name": "John B. Larson",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "L000557",
+            "state": "CT",
+            "district": "1st"
         },
         {
             "name": "John Garamendi",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "G000559",
+            "state": "CA",
+            "district": "8th"
         },
         {
             "name": "John H. Rutherford",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "R000609",
+            "state": "FL",
+            "district": "5th"
         },
         {
             "name": "John J. McGuire III",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001239",
+            "state": "VA",
+            "district": "5th"
         },
         {
             "name": "John James",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "J000307",
+            "state": "MI",
+            "district": "10th"
         },
         {
             "name": "John Joyce",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "J000302",
+            "state": "PA",
+            "district": "13th"
         },
         {
             "name": "John R. Carter",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001051",
+            "state": "TX",
+            "district": "31st"
         },
         {
             "name": "John R. Moolenaar",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001194",
+            "state": "MI",
+            "district": "2nd"
         },
         {
             "name": "John W. Mannion",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001231",
+            "state": "NY",
+            "district": "22nd"
         },
         {
             "name": "John W. Rose",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "R000612",
+            "state": "TN",
+            "district": "6th"
         },
         {
             "name": "Johnny Olszewski, Jr.",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "O000176",
+            "state": "MD",
+            "district": "2nd"
         },
         {
             "name": "Jonathan L. Jackson",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "J000309",
+            "state": "IL",
+            "district": "1st"
         },
         {
             "name": "Joseph D. Morelle",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001206",
+            "state": "NY",
+            "district": "25th"
         },
         {
             "name": "Josh Brecheen",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001317",
+            "state": "OK",
+            "district": "2nd"
         },
         {
             "name": "Josh Gottheimer",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "G000583",
+            "state": "NJ",
+            "district": "5th"
         },
         {
             "name": "Josh Harder",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "H001090",
+            "state": "CA",
+            "district": "9th"
         },
         {
             "name": "Josh Riley",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "R000622",
+            "state": "NY",
+            "district": "19th"
         },
         {
             "name": "Joyce Beatty",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001281",
+            "state": "OH",
+            "district": "3rd"
         },
         {
             "name": "Juan Ciscomani",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001133",
+            "state": "AZ",
+            "district": "6th"
         },
         {
             "name": "Juan Vargas",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "V000130",
+            "state": "CA",
+            "district": "52nd"
         },
         {
             "name": "Judy Chu",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001080",
+            "state": "CA",
+            "district": "28th"
         },
         {
             "name": "Julia Brownley",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001285",
+            "state": "CA",
+            "district": "26th"
         },
         {
             "name": "Julia Letlow",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "L000595",
+            "state": "LA",
+            "district": "5th"
         },
         {
             "name": "Julie Fedorchak",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "F000482",
+            "state": "ND",
+            "district": "At Large"
         },
         {
             "name": "Julie Johnson",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "J000310",
+            "state": "TX",
+            "district": "32nd"
         },
         {
             "name": "Kat Cammack",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001039",
+            "state": "FL",
+            "district": "3rd"
         },
         {
             "name": "Katherine M. Clark",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001101",
+            "state": "MA",
+            "district": "5th"
         },
         {
             "name": "Kathy Castor",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001066",
+            "state": "FL",
+            "district": "14th"
         },
         {
             "name": "Keith Self",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001224",
+            "state": "TX",
+            "district": "3rd"
         },
         {
             "name": "Kelly Morrison",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001234",
+            "state": "MN",
+            "district": "3rd"
         },
         {
             "name": "Ken Calvert",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C000059",
+            "state": "CA",
+            "district": "41st"
         },
         {
             "name": "Kevin Hern",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "H001082",
+            "state": "OK",
+            "district": "1st"
         },
         {
             "name": "Kevin Kiley",
             "party": "I",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "K000401",
+            "state": "CA",
+            "district": "3rd"
         },
         {
             "name": "Kevin Mullin",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001225",
+            "state": "CA",
+            "district": "15th"
         },
         {
             "name": "Kim Schrier",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001216",
+            "state": "WA",
+            "district": "8th"
         },
         {
             "name": "Kimberlyn King-Hinds",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "K000404",
+            "state": "MP",
+            "district": "Delegate"
         },
         {
             "name": "Kristen McDonald Rivet",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001237",
+            "state": "MI",
+            "district": "8th"
         },
         {
             "name": "Kweisi Mfume",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M000687",
+            "state": "MD",
+            "district": "7th"
         },
         {
             "name": "LaMonica McIver",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001229",
+            "state": "NJ",
+            "district": "10th"
         },
         {
             "name": "Lance Gooden",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "G000589",
+            "state": "TX",
+            "district": "5th"
         },
         {
             "name": "Lateefah Simon",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001231",
+            "state": "CA",
+            "district": "12th"
         },
         {
             "name": "Laura Friedman",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "F000483",
+            "state": "CA",
+            "district": "30th"
         },
         {
             "name": "Laura Gillen",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "G000602",
+            "state": "NY",
+            "district": "4th"
         },
         {
             "name": "Laurel M. Lee",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "L000597",
+            "state": "FL",
+            "district": "15th"
         },
         {
             "name": "Lauren Boebert",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B000825",
+            "state": "CO",
+            "district": "4th"
         },
         {
             "name": "Lauren Underwood",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "U000040",
+            "state": "IL",
+            "district": "14th"
         },
         {
             "name": "Linda T. Sánchez",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001156",
+            "state": "CA",
+            "district": "38th"
         },
         {
             "name": "Lisa C. McClain",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001136",
+            "state": "MI",
+            "district": "9th"
         },
         {
             "name": "Lizzie Fletcher",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "F000468",
+            "state": "TX",
+            "district": "7th"
         },
         {
             "name": "Lloyd Doggett",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "D000399",
+            "state": "TX",
+            "district": "37th"
         },
         {
             "name": "Lloyd Smucker",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001199",
+            "state": "PA",
+            "district": "11th"
         },
         {
             "name": "Lois Frankel",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "F000462",
+            "state": "FL",
+            "district": "22nd"
         },
         {
             "name": "Lori Trahan",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "T000482",
+            "state": "MA",
+            "district": "3rd"
         },
         {
             "name": "Lucy McBath",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001208",
+            "state": "GA",
+            "district": "6th"
         },
         {
             "name": "Luz M. Rivas",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "R000620",
+            "state": "CA",
+            "district": "29th"
         },
         {
             "name": "Madeleine Dean",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "D000631",
+            "state": "PA",
+            "district": "4th"
         },
         {
             "name": "Maggie Goodlander",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "G000604",
+            "state": "NH",
+            "district": "2nd"
         },
         {
             "name": "Marc A. Veasey",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "V000131",
+            "state": "TX",
+            "district": "33rd"
         },
         {
             "name": "Marcy Kaptur",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "K000009",
+            "state": "OH",
+            "district": "9th"
         },
         {
             "name": "Maria Elvira Salazar",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S000168",
+            "state": "FL",
+            "district": "27th"
         },
         {
             "name": "Mariannette Miller-Meeks",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001215",
+            "state": "IA",
+            "district": "1st"
         },
         {
             "name": "Marie Gluesenkamp Perez",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "G000600",
+            "state": "WA",
+            "district": "3rd"
         },
         {
             "name": "Marilyn Strickland",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001159",
+            "state": "WA",
+            "district": "10th"
         },
         {
             "name": "Mario Diaz-Balart",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "D000600",
+            "state": "FL",
+            "district": "26th"
         },
         {
             "name": "Mark Alford",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "A000379",
+            "state": "MO",
+            "district": "4th"
         },
         {
             "name": "Mark B. Messmer",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001233",
+            "state": "IN",
+            "district": "8th"
         },
         {
             "name": "Mark DeSaulnier",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "D000623",
+            "state": "CA",
+            "district": "10th"
         },
         {
             "name": "Mark E. Amodei",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "A000369",
+            "state": "NV",
+            "district": "2nd"
         },
         {
             "name": "Mark Harris",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "H001102",
+            "state": "NC",
+            "district": "8th"
         },
         {
             "name": "Mark Pocan",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "P000607",
+            "state": "WI",
+            "district": "2nd"
         },
         {
             "name": "Mark Takano",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "T000472",
+            "state": "CA",
+            "district": "39th"
         },
         {
             "name": "Marlin A. Stutzman",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001188",
+            "state": "IN",
+            "district": "3rd"
         },
         {
             "name": "Mary E. Miller",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001211",
+            "state": "IL",
+            "district": "15th"
         },
         {
             "name": "Mary Gay Scanlon",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001205",
+            "state": "PA",
+            "district": "5th"
         },
         {
             "name": "Matt Van Epps",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "V000139",
+            "state": "TN",
+            "district": "7th"
         },
         {
             "name": "Max L. Miller",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001222",
+            "state": "OH",
+            "district": "7th"
         },
         {
             "name": "Maxine Dexter",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "D000635",
+            "state": "OR",
+            "district": "3rd"
         },
         {
             "name": "Maxine Waters",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "W000187",
+            "state": "CA",
+            "district": "43rd"
         },
         {
             "name": "Maxwell Frost",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "F000476",
+            "state": "FL",
+            "district": "10th"
         },
         {
             "name": "Melanie A. Stansbury",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001218",
+            "state": "NM",
+            "district": "1st"
         },
         {
             "name": "Michael A. Rulli",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "R000619",
+            "state": "OH",
+            "district": "6th"
         },
         {
             "name": "Michael Baumgartner",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001322",
+            "state": "WA",
+            "district": "5th"
         },
         {
             "name": "Michael Cloud",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001115",
+            "state": "TX",
+            "district": "27th"
         },
         {
             "name": "Michael Guest",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "G000591",
+            "state": "MS",
+            "district": "3rd"
         },
         {
             "name": "Michael K. Simpson",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001148",
+            "state": "ID",
+            "district": "2nd"
         },
         {
             "name": "Michael Lawler",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "L000599",
+            "state": "NY",
+            "district": "17th"
         },
         {
             "name": "Michael R. Turner",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "T000463",
+            "state": "OH",
+            "district": "10th"
         },
         {
             "name": "Michael T. McCaul",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001157",
+            "state": "TX",
+            "district": "10th"
         },
         {
             "name": "Michelle Fischbach",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "F000470",
+            "state": "MN",
+            "district": "7th"
         },
         {
             "name": "Mike Bost",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001295",
+            "state": "IL",
+            "district": "12th"
         },
         {
             "name": "Mike Carey",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001126",
+            "state": "OH",
+            "district": "15th"
         },
         {
             "name": "Mike Collins",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001129",
+            "state": "GA",
+            "district": "10th"
         },
         {
             "name": "Mike Ezell",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "E000235",
+            "state": "MS",
+            "district": "4th"
         },
         {
             "name": "Mike Flood",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "F000474",
+            "state": "NE",
+            "district": "1st"
         },
         {
             "name": "Mike Haridopolos",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "H001099",
+            "state": "FL",
+            "district": "8th"
         },
         {
             "name": "Mike Johnson",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "J000299",
+            "state": "LA",
+            "district": "4th"
         },
         {
             "name": "Mike Kelly",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "K000376",
+            "state": "PA",
+            "district": "16th"
         },
         {
             "name": "Mike Kennedy",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "K000403",
+            "state": "UT",
+            "district": "3rd"
         },
         {
             "name": "Mike Levin",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "L000593",
+            "state": "CA",
+            "district": "49th"
         },
         {
             "name": "Mike Quigley",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "Q000023",
+            "state": "IL",
+            "district": "5th"
         },
         {
             "name": "Mike Rogers",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "R000575",
+            "state": "AL",
+            "district": "3rd"
         },
         {
             "name": "Mike Thompson",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "T000460",
+            "state": "CA",
+            "district": "4th"
         },
         {
             "name": "Monica De La Cruz",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "D000594",
+            "state": "TX",
+            "district": "15th"
         },
         {
             "name": "Morgan Luttrell",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "L000603",
+            "state": "TX",
+            "district": "8th"
         },
         {
             "name": "Morgan McGarvey",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001220",
+            "state": "KY",
+            "district": "3rd"
         },
         {
             "name": "Nancy Mace",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M000194",
+            "state": "SC",
+            "district": "1st"
         },
         {
             "name": "Nancy Pelosi",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "P000197",
+            "state": "CA",
+            "district": "11th"
         },
         {
             "name": "Nanette Diaz Barragán",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001300",
+            "state": "CA",
+            "district": "44th"
         },
         {
             "name": "Nathaniel Moran",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001224",
+            "state": "TX",
+            "district": "1st"
         },
         {
             "name": "Neal P. Dunn",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "D000628",
+            "state": "FL",
+            "district": "2nd"
         },
         {
             "name": "Nellie Pou",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "P000621",
+            "state": "NJ",
+            "district": "9th"
         },
         {
             "name": "Nicholas A. Langworthy",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "L000600",
+            "state": "NY",
+            "district": "23rd"
         },
         {
             "name": "Nicholas J. Begich III",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001323",
+            "state": "AK",
+            "district": "At Large"
         },
         {
             "name": "Nick LaLota",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "L000598",
+            "state": "NY",
+            "district": "1st"
         },
         {
             "name": "Nicole Malliotakis",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M000317",
+            "state": "NY",
+            "district": "11th"
         },
         {
             "name": "Nikema Williams",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "W000788",
+            "state": "GA",
+            "district": "5th"
         },
         {
             "name": "Nikki Budzinski",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001315",
+            "state": "IL",
+            "district": "13th"
         },
         {
             "name": "Norma J. Torres",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "T000474",
+            "state": "CA",
+            "district": "35th"
         },
         {
             "name": "Nydia M. Velázquez",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "V000081",
+            "state": "NY",
+            "district": "7th"
         },
         {
             "name": "Pablo José Hernández",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "H001103",
+            "state": "PR",
+            "district": "Resident Commissioner"
         },
         {
             "name": "Pat Fallon",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "F000246",
+            "state": "TX",
+            "district": "4th"
         },
         {
             "name": "Pat Harrigan",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "H001101",
+            "state": "NC",
+            "district": "10th"
         },
         {
             "name": "Patrick Ryan",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "R000579",
+            "state": "NY",
+            "district": "18th"
         },
         {
             "name": "Paul A. Gosar",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "G000565",
+            "state": "AZ",
+            "district": "9th"
         },
         {
             "name": "Paul Tonko",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "T000469",
+            "state": "NY",
+            "district": "20th"
         },
         {
             "name": "Pete Aguilar",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "A000371",
+            "state": "CA",
+            "district": "33rd"
         },
         {
             "name": "Pete Sessions",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S000250",
+            "state": "TX",
+            "district": "17th"
         },
         {
             "name": "Pete Stauber",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001212",
+            "state": "MN",
+            "district": "8th"
         },
         {
             "name": "Pramila Jayapal",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "J000298",
+            "state": "WA",
+            "district": "7th"
         },
         {
             "name": "Raja Krishnamoorthi",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "K000391",
+            "state": "IL",
+            "district": "8th"
         },
         {
             "name": "Ralph Norman",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "N000190",
+            "state": "SC",
+            "district": "5th"
         },
         {
             "name": "Randy Feenstra",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "F000446",
+            "state": "IA",
+            "district": "4th"
         },
         {
             "name": "Randy Fine",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "F000484",
+            "state": "FL",
+            "district": "6th"
         },
         {
             "name": "Randy K. Weber, Sr.",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "W000814",
+            "state": "TX",
+            "district": "14th"
         },
         {
             "name": "Rashida Tlaib",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "T000481",
+            "state": "MI",
+            "district": "12th"
         },
         {
             "name": "Raul Ruiz",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "R000599",
+            "state": "CA",
+            "district": "25th"
         },
         {
             "name": "Richard E. Neal",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "N000015",
+            "state": "MA",
+            "district": "1st"
         },
         {
             "name": "Richard Hudson",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "H001067",
+            "state": "NC",
+            "district": "9th"
         },
         {
             "name": "Richard McCormick",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001218",
+            "state": "GA",
+            "district": "7th"
         },
         {
             "name": "Rick Larsen",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "L000560",
+            "state": "WA",
+            "district": "2nd"
         },
         {
             "name": "Rick W. Allen",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "A000372",
+            "state": "GA",
+            "district": "12th"
         },
         {
             "name": "Riley M. Moore",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001235",
+            "state": "WV",
+            "district": "2nd"
         },
         {
             "name": "Ritchie Torres",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "T000486",
+            "state": "NY",
+            "district": "15th"
         },
         {
             "name": "Ro Khanna",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "K000389",
+            "state": "CA",
+            "district": "17th"
         },
         {
             "name": "Robert B. Aderholt",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "A000055",
+            "state": "AL",
+            "district": "4th"
         },
         {
             "name": "Robert C. \"Bobby\" Scott",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S000185",
+            "state": "VA",
+            "district": "3rd"
         },
         {
             "name": "Robert E. Latta",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "L000566",
+            "state": "OH",
+            "district": "5th"
         },
         {
             "name": "Robert F. Onder, Jr.",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "O000177",
+            "state": "MO",
+            "district": "3rd"
         },
         {
             "name": "Robert Garcia",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "G000598",
+            "state": "CA",
+            "district": "42nd"
         },
         {
             "name": "Robert J. Wittman",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "W000804",
+            "state": "VA",
+            "district": "1st"
         },
         {
             "name": "Robert Menendez",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001226",
+            "state": "NJ",
+            "district": "8th"
         },
         {
             "name": "Robert P. Bresnahan, Jr.",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001327",
+            "state": "PA",
+            "district": "8th"
         },
         {
             "name": "Robin L. Kelly",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "K000385",
+            "state": "IL",
+            "district": "2nd"
         },
         {
             "name": "Roger Williams",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "W000816",
+            "state": "TX",
+            "district": "25th"
         },
         {
             "name": "Ron Estes",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "E000298",
+            "state": "KS",
+            "district": "4th"
         },
         {
             "name": "Ronny Jackson",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "J000304",
+            "state": "TX",
+            "district": "13th"
         },
         {
             "name": "Rosa L. DeLauro",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "D000216",
+            "state": "CT",
+            "district": "3rd"
         },
         {
             "name": "Rudy Yakym III",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "Y000067",
+            "state": "IN",
+            "district": "2nd"
         },
         {
             "name": "Russ Fulcher",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "F000469",
+            "state": "ID",
+            "district": "1st"
         },
         {
             "name": "Russell Fry",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "F000478",
+            "state": "SC",
+            "district": "7th"
         },
         {
             "name": "Ryan K. Zinke",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "Z000018",
+            "state": "MT",
+            "district": "1st"
         },
         {
             "name": "Ryan Mackenzie",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001230",
+            "state": "PA",
+            "district": "7th"
         },
         {
             "name": "Salud O. Carbajal",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001112",
+            "state": "CA",
+            "district": "24th"
         },
         {
             "name": "Sam Graves",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "G000546",
+            "state": "MO",
+            "district": "6th"
         },
         {
             "name": "Sam T. Liccardo",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "L000607",
+            "state": "CA",
+            "district": "16th"
         },
         {
             "name": "Sanford D. Bishop, Jr.",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B000490",
+            "state": "GA",
+            "district": "2nd"
         },
         {
             "name": "Sara Jacobs",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "J000305",
+            "state": "CA",
+            "district": "51st"
         },
         {
             "name": "Sarah Elfreth",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "E000301",
+            "state": "MD",
+            "district": "3rd"
         },
         {
             "name": "Sarah McBride",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001238",
+            "state": "DE",
+            "district": "At Large"
         },
         {
             "name": "Scott DesJarlais",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "D000616",
+            "state": "TN",
+            "district": "4th"
         },
         {
             "name": "Scott Fitzgerald",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "F000471",
+            "state": "WI",
+            "district": "5th"
         },
         {
             "name": "Scott Franklin",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "F000472",
+            "state": "FL",
+            "district": "18th"
         },
         {
             "name": "Scott H. Peters",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "P000608",
+            "state": "CA",
+            "district": "50th"
         },
         {
             "name": "Scott Perry",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "P000605",
+            "state": "PA",
+            "district": "10th"
         },
         {
             "name": "Sean Casten",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001117",
+            "state": "IL",
+            "district": "6th"
         },
         {
             "name": "Seth Magaziner",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001223",
+            "state": "RI",
+            "district": "2nd"
         },
         {
             "name": "Seth Moulton",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001196",
+            "state": "MA",
+            "district": "6th"
         },
         {
             "name": "Sharice Davids",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "D000629",
+            "state": "KS",
+            "district": "3rd"
         },
         {
             "name": "Sheri Biggs",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001325",
+            "state": "SC",
+            "district": "3rd"
         },
         {
             "name": "Shomari Figures",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "F000481",
+            "state": "AL",
+            "district": "2nd"
         },
         {
             "name": "Shontel M. Brown",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001313",
+            "state": "OH",
+            "district": "11th"
         },
         {
             "name": "Shri Thanedar",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "T000488",
+            "state": "MI",
+            "district": "13th"
         },
         {
             "name": "Stacey E. Plaskett",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "P000610",
+            "state": "VI",
+            "district": "Delegate"
         },
         {
             "name": "Steny H. Hoyer",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "H000874",
+            "state": "MD",
+            "district": "5th"
         },
         {
             "name": "Stephanie I. Bice",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B000740",
+            "state": "OK",
+            "district": "5th"
         },
         {
             "name": "Stephen F. Lynch",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "L000562",
+            "state": "MA",
+            "district": "8th"
         },
         {
             "name": "Steve Cohen",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001068",
+            "state": "TN",
+            "district": "9th"
         },
         {
             "name": "Steve Scalise",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001176",
+            "state": "LA",
+            "district": "1st"
         },
         {
             "name": "Steve Womack",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "W000809",
+            "state": "AR",
+            "district": "3rd"
         },
         {
             "name": "Steven Horsford",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "H001066",
+            "state": "NV",
+            "district": "4th"
         },
         {
             "name": "Suhas Subramanyam",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001230",
+            "state": "VA",
+            "district": "10th"
         },
         {
             "name": "Summer L. Lee",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "L000602",
+            "state": "PA",
+            "district": "12th"
         },
         {
             "name": "Susie Lee",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "L000590",
+            "state": "NV",
+            "district": "3rd"
         },
         {
             "name": "Suzan K. DelBene",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "D000617",
+            "state": "WA",
+            "district": "1st"
         },
         {
             "name": "Suzanne Bonamici",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001278",
+            "state": "OR",
+            "district": "1st"
         },
         {
             "name": "Sydney Kamlager-Dove",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "K000400",
+            "state": "CA",
+            "district": "37th"
         },
         {
             "name": "Sylvia R. Garcia",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "G000587",
+            "state": "TX",
+            "district": "29th"
         },
         {
             "name": "Ted Lieu",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "L000582",
+            "state": "CA",
+            "district": "36th"
         },
         {
             "name": "Teresa Leger Fernandez",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "L000273",
+            "state": "NM",
+            "district": "3rd"
         },
         {
             "name": "Terri A. Sewell",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001185",
+            "state": "AL",
+            "district": "7th"
         },
         {
             "name": "Thomas H. Kean, Jr.",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "K000398",
+            "state": "NJ",
+            "district": "7th"
         },
         {
             "name": "Thomas Massie",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001184",
+            "state": "KY",
+            "district": "4th"
         },
         {
             "name": "Thomas P. Tiffany",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "T000165",
+            "state": "WI",
+            "district": "7th"
         },
         {
             "name": "Thomas R. Suozzi",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001201",
+            "state": "NY",
+            "district": "3rd"
         },
         {
             "name": "Tim Burchett",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001309",
+            "state": "TN",
+            "district": "2nd"
         },
         {
             "name": "Tim Moore",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001236",
+            "state": "NC",
+            "district": "14th"
         },
         {
             "name": "Tim Walberg",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "W000798",
+            "state": "MI",
+            "district": "5th"
         },
         {
             "name": "Timothy M. Kennedy",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "K000402",
+            "state": "NY",
+            "district": "26th"
         },
         {
             "name": "Tom Barrett",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001321",
+            "state": "MI",
+            "district": "7th"
         },
         {
             "name": "Tom Cole",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001053",
+            "state": "OK",
+            "district": "4th"
         },
         {
             "name": "Tom Emmer",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "E000294",
+            "state": "MN",
+            "district": "6th"
         },
         {
             "name": "Tom McClintock",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001177",
+            "state": "CA",
+            "district": "5th"
         },
         {
             "name": "Tony Wied",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "W000829",
+            "state": "WI",
+            "district": "8th"
         },
         {
             "name": "Tracey Mann",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M000871",
+            "state": "KS",
+            "district": "1st"
         },
         {
             "name": "Trent Kelly",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "K000388",
+            "state": "MS",
+            "district": "1st"
         },
         {
             "name": "Troy A. Carter",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001125",
+            "state": "LA",
+            "district": "2nd"
         },
         {
             "name": "Troy Balderson",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001306",
+            "state": "OH",
+            "district": "12th"
         },
         {
             "name": "Troy Downing",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "D000634",
+            "state": "MT",
+            "district": "2nd"
         },
         {
             "name": "Troy E. Nehls",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "N000026",
+            "state": "TX",
+            "district": "22nd"
         },
         {
             "name": "Val T. Hoyle",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "H001094",
+            "state": "OR",
+            "district": "4th"
         },
         {
             "name": "Valerie P. Foushee",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "F000477",
+            "state": "NC",
+            "district": "4th"
         },
         {
             "name": "Vern Buchanan",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001260",
+            "state": "FL",
+            "district": "16th"
         },
         {
             "name": "Veronica Escobar",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "E000299",
+            "state": "TX",
+            "district": "16th"
         },
         {
             "name": "Vicente Gonzalez",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "G000581",
+            "state": "TX",
+            "district": "34th"
         },
         {
             "name": "Victoria Spartz",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S000929",
+            "state": "IN",
+            "district": "5th"
         },
         {
             "name": "Vince Fong",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "F000480",
+            "state": "CA",
+            "district": "20th"
         },
         {
             "name": "Virginia Foxx",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "F000450",
+            "state": "NC",
+            "district": "5th"
         },
         {
             "name": "W. Gregory Steube",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001214",
+            "state": "FL",
+            "district": "17th"
         },
         {
             "name": "Warren Davidson",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "D000626",
+            "state": "OH",
+            "district": "8th"
         },
         {
             "name": "Wesley Bell",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001324",
+            "state": "MO",
+            "district": "1st"
         },
         {
             "name": "Wesley Hunt",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "H001095",
+            "state": "TX",
+            "district": "38th"
         },
         {
             "name": "William R. Keating",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "K000375",
+            "state": "MA",
+            "district": "9th"
         },
         {
             "name": "William R. Timmons IV",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "T000480",
+            "state": "SC",
+            "district": "4th"
         },
         {
             "name": "Yassamin Ansari",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "A000381",
+            "state": "AZ",
+            "district": "3rd"
         },
         {
             "name": "Young Kim",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "K000397",
+            "state": "CA",
+            "district": "40th"
         },
         {
             "name": "Yvette D. Clarke",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001067",
+            "state": "NY",
+            "district": "9th"
         },
         {
             "name": "Zachary Nunn",
             "party": "R",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "N000193",
+            "state": "IA",
+            "district": "3rd"
         },
         {
             "name": "Zoe Lofgren",
             "party": "D",
             "office": "house",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "L000397",
+            "state": "CA",
+            "district": "18th"
         },
         {
             "name": "Adam B. Schiff",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2030
+            "next_election_year": 2030,
+            "id": "S001150",
+            "state": "CA",
+            "district": null
         },
         {
             "name": "Alan Armstrong",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2032
+            "next_election_year": 2032,
+            "id": "A000383",
+            "state": "OK",
+            "district": null
         },
         {
             "name": "Alex Padilla",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "P000145",
+            "state": "CA",
+            "district": null
         },
         {
             "name": "Amy Klobuchar",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2030
+            "next_election_year": 2030,
+            "id": "K000367",
+            "state": "MN",
+            "district": null
         },
         {
             "name": "Andy Kim",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2030
+            "next_election_year": 2030,
+            "id": "K000394",
+            "state": "NJ",
+            "district": null
         },
         {
             "name": "Angela D. Alsobrooks",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2030
+            "next_election_year": 2030,
+            "id": "A000382",
+            "state": "MD",
+            "district": null
         },
         {
             "name": "Angus S., Jr. King",
             "party": "I",
             "office": "senate",
-            "next_election_year": 2030
+            "next_election_year": 2030,
+            "id": "K000383",
+            "state": "ME",
+            "district": null
         },
         {
             "name": "Ashley Moody",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001244",
+            "state": "FL",
+            "district": null
         },
         {
             "name": "Ben Ray Luján",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2032
+            "next_election_year": 2032,
+            "id": "L000570",
+            "state": "NM",
+            "district": null
         },
         {
             "name": "Bernard Sanders",
             "party": "I",
             "office": "senate",
-            "next_election_year": 2030
+            "next_election_year": 2030,
+            "id": "S000033",
+            "state": "VT",
+            "district": null
         },
         {
             "name": "Bernie Moreno",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2030
+            "next_election_year": 2030,
+            "id": "M001242",
+            "state": "OH",
+            "district": null
         },
         {
             "name": "Bill Cassidy",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2032
+            "next_election_year": 2032,
+            "id": "C001075",
+            "state": "LA",
+            "district": null
         },
         {
             "name": "Bill Hagerty",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2032
+            "next_election_year": 2032,
+            "id": "H000601",
+            "state": "TN",
+            "district": null
         },
         {
             "name": "Brian Schatz",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001194",
+            "state": "HI",
+            "district": null
         },
         {
             "name": "Catherine Cortez Masto",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C001113",
+            "state": "NV",
+            "district": null
         },
         {
             "name": "Charles E. Schumer",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S000148",
+            "state": "NY",
+            "district": null
         },
         {
             "name": "Chris Van Hollen",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "V000128",
+            "state": "MD",
+            "district": null
         },
         {
             "name": "Christopher A. Coons",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2032
+            "next_election_year": 2032,
+            "id": "C001088",
+            "state": "DE",
+            "district": null
         },
         {
             "name": "Christopher Murphy",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2030
+            "next_election_year": 2030,
+            "id": "M001169",
+            "state": "CT",
+            "district": null
         },
         {
             "name": "Chuck Grassley",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "G000386",
+            "state": "IA",
+            "district": null
         },
         {
             "name": "Cindy Hyde-Smith",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2032
+            "next_election_year": 2032,
+            "id": "H001079",
+            "state": "MS",
+            "district": null
         },
         {
             "name": "Cory A. Booker",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2032
+            "next_election_year": 2032,
+            "id": "B001288",
+            "state": "NJ",
+            "district": null
         },
         {
             "name": "Cynthia M. Lummis",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2032
+            "next_election_year": 2032,
+            "id": "L000571",
+            "state": "WY",
+            "district": null
         },
         {
             "name": "Dan Sullivan",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2032
+            "next_election_year": 2032,
+            "id": "S001198",
+            "state": "AK",
+            "district": null
         },
         {
             "name": "Darline Graham",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2032
+            "next_election_year": 2032,
+            "id": "G000608",
+            "state": "SC",
+            "district": null
         },
         {
             "name": "David McCormick",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2030
+            "next_election_year": 2030,
+            "id": "M001243",
+            "state": "PA",
+            "district": null
         },
         {
             "name": "Deb Fischer",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2030
+            "next_election_year": 2030,
+            "id": "F000463",
+            "state": "NE",
+            "district": null
         },
         {
             "name": "Edward J. Markey",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2032
+            "next_election_year": 2032,
+            "id": "M000133",
+            "state": "MA",
+            "district": null
         },
         {
             "name": "Elissa Slotkin",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2030
+            "next_election_year": 2030,
+            "id": "S001208",
+            "state": "MI",
+            "district": null
         },
         {
             "name": "Elizabeth Warren",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2030
+            "next_election_year": 2030,
+            "id": "W000817",
+            "state": "MA",
+            "district": null
         },
         {
             "name": "Eric Schmitt",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001227",
+            "state": "MO",
+            "district": null
         },
         {
             "name": "Gary C. Peters",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2032
+            "next_election_year": 2032,
+            "id": "P000595",
+            "state": "MI",
+            "district": null
         },
         {
             "name": "Jack Reed",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2032
+            "next_election_year": 2032,
+            "id": "R000122",
+            "state": "RI",
+            "district": null
         },
         {
             "name": "Jacky Rosen",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2030
+            "next_election_year": 2030,
+            "id": "R000608",
+            "state": "NV",
+            "district": null
         },
         {
             "name": "James C. Justice",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2030
+            "next_election_year": 2030,
+            "id": "J000312",
+            "state": "WV",
+            "district": null
         },
         {
             "name": "James E. Risch",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2032
+            "next_election_year": 2032,
+            "id": "R000584",
+            "state": "ID",
+            "district": null
         },
         {
             "name": "James Lankford",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "L000575",
+            "state": "OK",
+            "district": null
         },
         {
             "name": "Jeanne Shaheen",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2032
+            "next_election_year": 2032,
+            "id": "S001181",
+            "state": "NH",
+            "district": null
         },
         {
             "name": "Jeff Merkley",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2032
+            "next_election_year": 2032,
+            "id": "M001176",
+            "state": "OR",
+            "district": null
         },
         {
             "name": "Jerry Moran",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M000934",
+            "state": "KS",
+            "district": null
         },
         {
             "name": "Jim Banks",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2030
+            "next_election_year": 2030,
+            "id": "B001299",
+            "state": "IN",
+            "district": null
         },
         {
             "name": "John Barrasso",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2030
+            "next_election_year": 2030,
+            "id": "B001261",
+            "state": "WY",
+            "district": null
         },
         {
             "name": "John Boozman",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001236",
+            "state": "AR",
+            "district": null
         },
         {
             "name": "John Cornyn",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2032
+            "next_election_year": 2032,
+            "id": "C001056",
+            "state": "TX",
+            "district": null
         },
         {
             "name": "John Fetterman",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "F000479",
+            "state": "PA",
+            "district": null
         },
         {
             "name": "John Hoeven",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "H001061",
+            "state": "ND",
+            "district": null
         },
         {
             "name": "John Kennedy",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "K000393",
+            "state": "LA",
+            "district": null
         },
         {
             "name": "John R. Curtis",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2030
+            "next_election_year": 2030,
+            "id": "C001114",
+            "state": "UT",
+            "district": null
         },
         {
             "name": "John Thune",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "T000250",
+            "state": "SD",
+            "district": null
         },
         {
             "name": "John W. Hickenlooper",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2032
+            "next_election_year": 2032,
+            "id": "H000273",
+            "state": "CO",
+            "district": null
         },
         {
             "name": "Jon Husted",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "H001104",
+            "state": "OH",
+            "district": null
         },
         {
             "name": "Jon Ossoff",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2032
+            "next_election_year": 2032,
+            "id": "O000174",
+            "state": "GA",
+            "district": null
         },
         {
             "name": "Joni Ernst",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2032
+            "next_election_year": 2032,
+            "id": "E000295",
+            "state": "IA",
+            "district": null
         },
         {
             "name": "Josh Hawley",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2030
+            "next_election_year": 2030,
+            "id": "H001089",
+            "state": "MO",
+            "district": null
         },
         {
             "name": "Katie Boyd Britt",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001319",
+            "state": "AL",
+            "district": null
         },
         {
             "name": "Kevin Cramer",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2030
+            "next_election_year": 2030,
+            "id": "C001096",
+            "state": "ND",
+            "district": null
         },
         {
             "name": "Kirsten E. Gillibrand",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2030
+            "next_election_year": 2030,
+            "id": "G000555",
+            "state": "NY",
+            "district": null
         },
         {
             "name": "Lisa Blunt Rochester",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2030
+            "next_election_year": 2030,
+            "id": "B001303",
+            "state": "DE",
+            "district": null
         },
         {
             "name": "Lisa Murkowski",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001153",
+            "state": "AK",
+            "district": null
         },
         {
             "name": "Margaret Wood Hassan",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "H001076",
+            "state": "NH",
+            "district": null
         },
         {
             "name": "Maria Cantwell",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2030
+            "next_election_year": 2030,
+            "id": "C000127",
+            "state": "WA",
+            "district": null
         },
         {
             "name": "Mark Kelly",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "K000377",
+            "state": "AZ",
+            "district": null
         },
         {
             "name": "Mark R. Warner",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2032
+            "next_election_year": 2032,
+            "id": "W000805",
+            "state": "VA",
+            "district": null
         },
         {
             "name": "Marsha Blackburn",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2030
+            "next_election_year": 2030,
+            "id": "B001243",
+            "state": "TN",
+            "district": null
         },
         {
             "name": "Martin Heinrich",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2030
+            "next_election_year": 2030,
+            "id": "H001046",
+            "state": "NM",
+            "district": null
         },
         {
             "name": "Mazie K. Hirono",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2030
+            "next_election_year": 2030,
+            "id": "H001042",
+            "state": "HI",
+            "district": null
         },
         {
             "name": "Michael F. Bennet",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001267",
+            "state": "CO",
+            "district": null
         },
         {
             "name": "Mike Crapo",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "C000880",
+            "state": "ID",
+            "district": null
         },
         {
             "name": "Mike Lee",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "L000577",
+            "state": "UT",
+            "district": null
         },
         {
             "name": "Mike Rounds",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2032
+            "next_election_year": 2032,
+            "id": "R000605",
+            "state": "SD",
+            "district": null
         },
         {
             "name": "Mitch McConnell",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2032
+            "next_election_year": 2032,
+            "id": "M000355",
+            "state": "KY",
+            "district": null
         },
         {
             "name": "Patty Murray",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "M001111",
+            "state": "WA",
+            "district": null
         },
         {
             "name": "Pete Ricketts",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2032
+            "next_election_year": 2032,
+            "id": "R000618",
+            "state": "NE",
+            "district": null
         },
         {
             "name": "Peter Welch",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "W000800",
+            "state": "VT",
+            "district": null
         },
         {
             "name": "Rand Paul",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "P000603",
+            "state": "KY",
+            "district": null
         },
         {
             "name": "Raphael G. Warnock",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "W000790",
+            "state": "GA",
+            "district": null
         },
         {
             "name": "Richard Blumenthal",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001277",
+            "state": "CT",
+            "district": null
         },
         {
             "name": "Richard J. Durbin",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2032
+            "next_election_year": 2032,
+            "id": "D000563",
+            "state": "IL",
+            "district": null
         },
         {
             "name": "Rick Scott",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2030
+            "next_election_year": 2030,
+            "id": "S001217",
+            "state": "FL",
+            "district": null
         },
         {
             "name": "Roger F. Wicker",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2030
+            "next_election_year": 2030,
+            "id": "W000437",
+            "state": "MS",
+            "district": null
         },
         {
             "name": "Roger Marshall",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2032
+            "next_election_year": 2032,
+            "id": "M001198",
+            "state": "KS",
+            "district": null
         },
         {
             "name": "Ron Johnson",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "J000293",
+            "state": "WI",
+            "district": null
         },
         {
             "name": "Ron Wyden",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "W000779",
+            "state": "OR",
+            "district": null
         },
         {
             "name": "Ruben Gallego",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2030
+            "next_election_year": 2030,
+            "id": "G000574",
+            "state": "AZ",
+            "district": null
         },
         {
             "name": "Sheldon Whitehouse",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2030
+            "next_election_year": 2030,
+            "id": "W000802",
+            "state": "RI",
+            "district": null
         },
         {
             "name": "Shelley Moore Capito",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2032
+            "next_election_year": 2032,
+            "id": "C001047",
+            "state": "WV",
+            "district": null
         },
         {
             "name": "Steve Daines",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2032
+            "next_election_year": 2032,
+            "id": "D000618",
+            "state": "MT",
+            "district": null
         },
         {
             "name": "Susan M. Collins",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2032
+            "next_election_year": 2032,
+            "id": "C001035",
+            "state": "ME",
+            "district": null
         },
         {
             "name": "Tammy Baldwin",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2030
+            "next_election_year": 2030,
+            "id": "B001230",
+            "state": "WI",
+            "district": null
         },
         {
             "name": "Tammy Duckworth",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "D000622",
+            "state": "IL",
+            "district": null
         },
         {
             "name": "Ted Budd",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "B001305",
+            "state": "NC",
+            "district": null
         },
         {
             "name": "Ted Cruz",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2030
+            "next_election_year": 2030,
+            "id": "C001098",
+            "state": "TX",
+            "district": null
         },
         {
             "name": "Thom Tillis",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2032
+            "next_election_year": 2032,
+            "id": "T000476",
+            "state": "NC",
+            "district": null
         },
         {
             "name": "Tim Kaine",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2030
+            "next_election_year": 2030,
+            "id": "K000384",
+            "state": "VA",
+            "district": null
         },
         {
             "name": "Tim Scott",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "S001184",
+            "state": "SC",
+            "district": null
         },
         {
             "name": "Tim Sheehy",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2030
+            "next_election_year": 2030,
+            "id": "S001232",
+            "state": "MT",
+            "district": null
         },
         {
             "name": "Tina Smith",
             "party": "D",
             "office": "senate",
-            "next_election_year": 2032
+            "next_election_year": 2032,
+            "id": "S001203",
+            "state": "MN",
+            "district": null
         },
         {
             "name": "Todd Young",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2028
+            "next_election_year": 2028,
+            "id": "Y000064",
+            "state": "IN",
+            "district": null
         },
         {
             "name": "Tom Cotton",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2032
+            "next_election_year": 2032,
+            "id": "C001095",
+            "state": "AR",
+            "district": null
         },
         {
             "name": "Tommy Tuberville",
             "party": "R",
             "office": "senate",
-            "next_election_year": 2032
+            "next_election_year": 2032,
+            "id": "T000278",
+            "state": "AL",
+            "district": null
         }
     ]
 }

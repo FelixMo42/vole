@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "actions": [
+    {
+      "id": "superintelligence-ban",
+      "title": "Ban Artificial Superintelligence Act",
+      "description": "Legislative action on the Ban Artificial Superintelligence Act of 2026. This is an explicit advocacy goal, not a consensus assessment.",
+      "request": "Would you consider introducing or cosponsoring legislation banning artificial superintelligence and establishing enforceable federal oversight of advanced AI? I am concerned about the potential risks and would appreciate your help addressing them.",
+      "priority_id": "superintelligence-ban",
+      "bill_ids": [
+        "S5493",
+        "HR10538"
+      ],
+      "lifecycle": "active"
+    },
+    {
+      "id": "evaluations",
+      "title": "Safety evaluations & transparency",
+      "description": "Independent scrutiny of serious biological, cyber, and loss-of-control risks, with meaningful public safety disclosures.",
+      "request": "Would you consider introducing legislation or an amendment requiring independent pre-deployment evaluations of advanced AI for biological, cyber, and loss-of-control risks? Public safety summaries, with protections for sensitive findings, would help people understand how these risks are being addressed.",
+      "priority_id": "evaluations",
+      "bill_ids": [
+        "S5471"
+      ],
+      "lifecycle": "active"
+    },
+    {
+      "id": "whistleblowers",
+      "title": "Whistleblower protections",
+      "description": "Protected channels for workers reporting serious AI risks, with remedies for retaliation.",
+      "request": "Would you consider introducing legislation or an amendment to protect AI workers who report serious safety concerns to regulators or Congress? Confidential reporting channels, reasonable limits on restrictive NDAs, and remedies for retaliation could help concerns reach the people who can address them.",
+      "priority_id": "whistleblowers",
+      "bill_ids": [
+        "S1792",
+        "HR3460"
+      ],
+      "lifecycle": "active"
+    }
+  ]
+}

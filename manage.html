@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex">
+  <title>Manage calls to action · Congress Directory</title><link rel="stylesheet" href="styles.css">
+  <script src="scoring.js?v=3.5" defer></script><script src="actions-data.js?v=3.5" defer></script><script src="manage.js?v=3.1" defer></script>
+</head>
+<body>
+  <header class="masthead"><a href="./" class="brand"><span aria-hidden="true">✳</span> Congress Directory</a><nav aria-label="Main"><a href="./">Politicians</a><a href="actions.html">Calls to action</a><a href="about.html">About us</a></nav></header>
+  <main>
+    <section class="intro"><p class="eyebrow">CONTENT MANAGEMENT</p><h1>Manage the asks.</h1><p class="lede">One catalog for your calls to action and politician updates.</p></section>
+    <aside class="research-notice"><strong>Local editor · publish by updating the repository</strong><p>Saved changes are drafts in this browser only. Download the JSON files below, replace the matching files in the project, run the tests, and deploy to publish. This page cannot write to the server. Public visitors can edit their own drafts; they cannot change your published data.</p></aside>
+    <p id="manager-status" role="status" aria-live="polite">Loading editor…</p>
+    <div id="manager" hidden>
+      <section class="editor-toolbar" aria-label="Draft files">
+        <button id="export-catalog" type="button" class="primary-button">Download calls-to-action.json</button><button id="export-research" type="button">Download scorecards.json</button>
+        <div><label for="import-catalog">Import calls-to-action.json</label><input id="import-catalog" type="file" accept=".json,application/json"></div>
+        <div><label for="import-research">Import scorecards.json</label><input id="import-research" type="file" accept=".json,application/json"></div>
+        <button id="discard-draft" type="button">Discard local draft & reload published files</button>
+      </section>
+      <div class="action-layout">
+        <aside><label for="manage-action">All calls to action</label><select id="manage-action"></select><button id="new-action" type="button">+ Add a call to action</button><p id="catalog-summary" class="fine-print"></p><a id="preview-action" href="actions.html">View published action →</a></aside>
+        <div>
+          <form id="action-form" class="editor-panel">
+            <h2>Call to action</h2>
+            <label for="edit-id">Stable ID (lowercase, with hyphens)</label><input id="edit-id" required pattern="[a-z0-9]+(-[a-z0-9]+)*" placeholder="ban-artificial-superintelligence">
+            <label for="edit-title">Title</label><input id="edit-title" required>
+            <label for="edit-description">Description</label><textarea id="edit-description" rows="3" required></textarea>
+            <label for="edit-request">Specific request</label><textarea id="edit-request" rows="4" required></textarea>
+            <div class="editor-columns"><div><label for="edit-lifecycle">Lifecycle</label><select id="edit-lifecycle"><option value="active">Active</option><option value="archived">Archived</option></select></div><div><label for="edit-priority">Scorecard priority (optional)</label><select id="edit-priority"><option value="">No rubric link</option></select></div></div>
+            <fieldset><legend>Linked bills</legend><p class="fine-print">Select only bills relevant to this request. Bills must belong to the selected priority. New bills are registered in scorecards.json.</p><div id="edit-bills"></div></fieldset>
+            <button class="primary-button" type="submit">Save action draft</button>
+          </form>
+          <section class="editor-panel" id="politician-editor">
+            <h2>Politician status</h2><p class="fine-print">Choose a saved action and politician. Missing records remain unknown.</p>
+            <label for="politician-search">Find a politician</label><input id="politician-search" type="search" placeholder="Name, state or Bioguide ID…">
+            <label for="edit-member">Politician</label><select id="edit-member"></select>
+            <p id="current-record" class="research-notice"></p>
+            <form id="evidence-form">
+              <h3>Sourced legislative action</h3><p class="fine-print">This updates the evidence used by both pages and the scorecards. Record completed sponsorship, cosponsorship, or votes only. Review primary sources before publishing.</p>
+              <label for="edit-evidence">Existing evidence / new record</label><select id="edit-evidence"><option value="">Add a legislative record</option></select>
+              <label for="evidence-bill">Bill</label><select id="evidence-bill" required></select>
+              <div class="editor-columns"><div><label for="evidence-action">Action</label><select id="evidence-action"><option value="sponsor">Sponsor</option><option value="cosponsor">Cosponsor</option><option value="vote">Recorded vote</option></select></div><div><label for="evidence-position">Alignment with priority</label><select id="evidence-position"><option value="support">Support</option><option value="oppose">Oppose</option><option value="mixed">Partial / mixed</option></select></div></div>
+              <label for="evidence-date">Action date</label><input id="evidence-date" type="date" required>
+              <label for="evidence-reviewed">Reviewed on</label><input id="evidence-reviewed" type="date" required>
+              <label for="evidence-title">Source title</label><input id="evidence-title" required>
+              <label for="evidence-url">Primary source URL (HTTPS)</label><input id="evidence-url" type="url" required>
+              <label for="evidence-summary">What the source establishes and its limitations</label><textarea id="evidence-summary" rows="3" required></textarea>
+              <fieldset id="vote-fields" hidden><legend>Recorded floor vote</legend><label for="evidence-vote">Vote</label><select id="evidence-vote"><option value="yea">Yea</option><option value="nay">Nay</option></select><label for="evidence-question">Vote question</label><input id="evidence-question"><label for="evidence-rollcall">Official roll-call URL (HTTPS)</label><input id="evidence-rollcall" type="url"></fieldset>
+              <button class="primary-button" type="submit">Save legislative record draft</button><button id="remove-evidence" type="button">Remove selected record</button>
+            </form>
+          </section>
+        </div>
+      </div>
+    </div>
+  </main>
+  <footer><a href="actions.html">Explore published calls to action</a><a href="README.md">Maintenance documentation</a></footer>
+</body>
+</html>
