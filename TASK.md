@@ -1,1 +1,0 @@
-Fill out the db with every politicians in the house/senate.

@@ -1,0 +1,1357 @@
+{
+  "schemaVersion": 2,
+  "jurisdiction": "US-CA",
+  "chamber": "senate",
+  "title": "California State Senate",
+  "seatCount": 40,
+  "memberCount": 39,
+  "vacancyCount": 1,
+  "retrievedAt": "2026-11-20T02:28:01.377Z",
+  "source": {
+    "url": "https://www.senate.ca.gov/senators",
+    "sha256": "92aad9fa43635137bf36396391b8c804e44a6e2cf2747f74e1980a7c1e9ec069"
+  },
+  "members": [
+    {
+      "id": "ca-senate-megan-dahle",
+      "name": "Megan Dahle",
+      "sourceName": "Megan Dahle",
+      "party": "Republican",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/Senator%2520Megan%2520Dahle%2520Headshot_1.jpg?itok=K8pCYrIb",
+      "district": 1,
+      "seatId": "ca-senate-01",
+      "profileUrl": "https://sr01.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD01&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 7230, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4001"
+        },
+        {
+          "kind": "district",
+          "address": "1320 Yuba Street, Suite 102, Redding, CA 96001",
+          "room": null,
+          "phone": "(530) 224-7001"
+        },
+        {
+          "kind": "district",
+          "address": "2635 Forest Avenue, Suite 110, Chico, CA 95928",
+          "room": null,
+          "phone": "(530) 879-7424"
+        },
+        {
+          "kind": "district",
+          "address": "120 North Auburn Street, Suite 214, Grass Valley, CA 95945",
+          "room": null,
+          "phone": "(530) 271-7412"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2028
+    },
+    {
+      "id": "ca-senate-mike-mcguire",
+      "name": "Mike McGuire",
+      "sourceName": "Mike McGuire",
+      "party": "Democratic",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/MCGUIRE%252C%2520MIKE%2520%2528D-02%2529_8.jpg?itok=VpRlUJgL",
+      "district": 2,
+      "seatId": "ca-senate-02",
+      "profileUrl": "https://sd02.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD02&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 8610, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4002"
+        },
+        {
+          "kind": "district",
+          "address": "3501 Civic Center Drive, Suite 425, San Rafael, CA 94903",
+          "room": null,
+          "phone": "(415) 479-6612"
+        },
+        {
+          "kind": "district",
+          "address": "50 D Street, Suite 120A, Santa Rosa, CA 95404",
+          "room": null,
+          "phone": "(707) 576-2771"
+        },
+        {
+          "kind": "district",
+          "address": "200 South School Street, Suite F, Ukiah, CA 95482",
+          "room": null,
+          "phone": "(707) 468-8914"
+        },
+        {
+          "kind": "district",
+          "address": "1080 Mason Mall, Suite 4, Crescent City, CA 95531",
+          "room": null,
+          "phone": "(707) 464-1255"
+        },
+        {
+          "kind": "district",
+          "address": "1036 5th Street, Suite D, Eureka, CA 95501",
+          "room": null,
+          "phone": "(707) 445-6508"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2030
+    },
+    {
+      "id": "ca-senate-christopher-cabaldon",
+      "name": "Christopher Cabaldon",
+      "sourceName": "Christopher Cabaldon",
+      "party": "Democratic",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/Portrait%2520Cabaldon%2520Portrait_1.jpg?itok=62pFZjgO",
+      "district": 3,
+      "seatId": "ca-senate-03",
+      "profileUrl": "https://sd03.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD03&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Room 7320, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4003"
+        },
+        {
+          "kind": "district",
+          "address": "2721 Napa Valley Corporate Drive, Building 4, 2nd Floor, Napa, CA 94558",
+          "room": null,
+          "phone": "(707) 224-1990"
+        },
+        {
+          "kind": "district",
+          "address": "50 D Street, Suite 300, Santa Rosa, CA 95404",
+          "room": null,
+          "phone": "(707) 576-2093"
+        },
+        {
+          "kind": "district",
+          "address": "412 G Street, Davis, CA 95616",
+          "room": null,
+          "phone": "(530) 750-7913"
+        },
+        {
+          "kind": "district",
+          "address": "420 Virginia Street, Suite 1-C, Vallejo, CA 94590",
+          "room": null,
+          "phone": "(707) 551-2389"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2028
+    },
+    {
+      "id": "ca-senate-marie-alvarado-gil",
+      "name": "Marie Alvarado-Gil",
+      "sourceName": "Marie Alvarado-Gil",
+      "party": "Republican",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/ALVARADO-GIL%252C%2520MARIE%2520%2528D-04%2529_9.jpg?itok=iAo2MJ9B",
+      "district": 4,
+      "seatId": "ca-senate-04",
+      "profileUrl": "https://sr04.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD04&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 7240, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4004"
+        },
+        {
+          "kind": "district",
+          "address": "4364 Town Center Boulevard, Suite 313, El Dorado Hills, CA 95762",
+          "room": null,
+          "phone": "(916) 933-8680"
+        },
+        {
+          "kind": "district",
+          "address": "1020 15th Street, Suite 21, Modesto, CA 95354",
+          "room": null,
+          "phone": "(209) 576-6001"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2030
+    },
+    {
+      "id": "ca-senate-jerry-mcnerney",
+      "name": "Jerry McNerney",
+      "sourceName": "Jerry McNerney",
+      "party": "Democratic",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/McNerney%2520new%2520headshot%25203_0_1.jpg?itok=K1h4FfYc",
+      "district": 5,
+      "seatId": "ca-senate-05",
+      "profileUrl": "https://sd05.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD05&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 6640, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4005"
+        },
+        {
+          "kind": "district",
+          "address": "7488 Shoreline Drive, Suites B2/4, Stockton, CA 95219",
+          "room": null,
+          "phone": "(209) 472-9535"
+        },
+        {
+          "kind": "district",
+          "address": "6850 Regional Street, Suite 210, Dublin, CA 94568",
+          "room": null,
+          "phone": "(925) 828-2500"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2028
+    },
+    {
+      "id": "ca-senate-roger-w-niello",
+      "name": "Roger W. Niello",
+      "sourceName": "Roger W. Niello",
+      "party": "Republican",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/Niello%252C%2520Roger%2520%2528R-6%2529_7.jpg?itok=9UnEm3NI",
+      "district": 6,
+      "seatId": "ca-senate-06",
+      "profileUrl": "https://sr06.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD06&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 7110, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4006"
+        },
+        {
+          "kind": "district",
+          "address": "2200A Douglas Boulevard, Suite 100, Roseville, CA 95661",
+          "room": null,
+          "phone": "(916) 772-0571"
+        },
+        {
+          "kind": "district",
+          "address": "2729 Prospect Park Drive, Suite 130, Rancho Cordova, CA 95670",
+          "room": null,
+          "phone": "(916) 464-3980"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2030
+    },
+    {
+      "id": "ca-senate-jesse-arreguin",
+      "name": "Jesse Arreguín",
+      "sourceName": "Jesse Arreguín",
+      "party": "Democratic",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/Portrait%2520Arreguin%2520Portrait_1.jpg?itok=h4VJZOPg",
+      "district": 7,
+      "seatId": "ca-senate-07",
+      "profileUrl": "https://sd07.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD07&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Room 6710, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4007"
+        },
+        {
+          "kind": "district",
+          "address": "1515 Clay Street, Suite 2202, Oakland, CA 94612",
+          "room": null,
+          "phone": "(510) 286-1333"
+        },
+        {
+          "kind": "district",
+          "address": "440 Civic Center Plaza, 2nd floor, Richmond, CA 94804",
+          "room": null,
+          "phone": "(510) 233-2903"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2028
+    },
+    {
+      "id": "ca-senate-angelique-v-ashby",
+      "name": "Angelique V. Ashby",
+      "sourceName": "Angelique V. Ashby",
+      "party": "Democratic",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/ASHBY%252C%2520ANGELIQUE%2520%2528D-08%2529_9.jpg?itok=gJmqX3Da",
+      "district": 8,
+      "seatId": "ca-senate-08",
+      "profileUrl": "https://sd08.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD08&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 8630, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4008"
+        },
+        {
+          "kind": "district",
+          "address": "1510 14th Street, Sacramento, CA 95814",
+          "room": null,
+          "phone": "(916) 319-0309"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2030
+    },
+    {
+      "id": "ca-senate-timothy-s-grayson",
+      "name": "Timothy S. Grayson",
+      "sourceName": "Timothy S. Grayson",
+      "party": "Democratic",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/Portrait%2520Grayson_2.jpg?itok=oc1dsBFI",
+      "district": 9,
+      "seatId": "ca-senate-09",
+      "profileUrl": "https://sd09.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD09&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 7250, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4009"
+        },
+        {
+          "kind": "district",
+          "address": "3003 Oak Road, Suite 109, Walnut Creek, CA 94597",
+          "room": null,
+          "phone": "(925) 944-4901"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2028
+    },
+    {
+      "id": "ca-senate-scott-d-wiener",
+      "name": "Scott D. Wiener",
+      "sourceName": "Scott D. Wiener",
+      "party": "Democratic",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/WIENER%252C%2520SCOTT%2520%2528D-11%2529_9.jpg?itok=-AtzexBQ",
+      "district": 11,
+      "seatId": "ca-senate-11",
+      "profileUrl": "https://sd11.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD11&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 8620, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4011"
+        },
+        {
+          "kind": "district",
+          "address": "455 Golden Gate Avenue, Suite 14800, San Francisco, CA 94102",
+          "room": null,
+          "phone": "(415) 557-1300"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2028
+    },
+    {
+      "id": "ca-senate-shannon-grove",
+      "name": "Shannon Grove",
+      "sourceName": "Shannon Grove",
+      "party": "Republican",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/GROVE%252C%2520SHANNON%2520%2528R-12%2529_7.jpg?itok=4Z6UhZ87",
+      "district": 12,
+      "seatId": "ca-senate-12",
+      "profileUrl": "https://sr12.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD12&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 7150, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4012"
+        },
+        {
+          "kind": "district",
+          "address": "5701 Truxtun Avenue, Suite 150, Bakersfield, CA 93309",
+          "room": null,
+          "phone": "(661) 323-0443"
+        },
+        {
+          "kind": "district",
+          "address": "567 West Shaw Avenue, Suite A-3, Fresno, CA 93704",
+          "room": null,
+          "phone": "(559) 243-8580"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2030
+    },
+    {
+      "id": "ca-senate-josh-becker",
+      "name": "Josh Becker",
+      "sourceName": "Josh Becker",
+      "party": "Democratic",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/BECKER%252C%2520JOSH%2520%2528D-13%2529_7.jpg?itok=fz_D2b1_",
+      "district": 13,
+      "seatId": "ca-senate-13",
+      "profileUrl": "https://sd13.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD13&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 6520, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4013"
+        },
+        {
+          "kind": "district",
+          "address": "3525 Alameda de las Pulgas, Menlo Park, CA 94025",
+          "room": null,
+          "phone": "(650) 233-2724"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2028
+    },
+    {
+      "id": "ca-senate-anna-m-caballero",
+      "name": "Anna M. Caballero",
+      "sourceName": "Anna M. Caballero",
+      "party": "Democratic",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/CABALLERO%252C%2520ANNA%2520%2528D-14%2529_8.jpg?itok=DRqAt7aX",
+      "district": 14,
+      "seatId": "ca-senate-14",
+      "profileUrl": "https://sd14.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD14&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 7620, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4014"
+        },
+        {
+          "kind": "district",
+          "address": "2550 Mariposa Mall, Suite 2016, Fresno, CA 93721",
+          "room": null,
+          "phone": "(559) 264-3070"
+        },
+        {
+          "kind": "district",
+          "address": "510 West Main Street, Suite E, Merced, CA 95340",
+          "room": null,
+          "phone": "(209) 726-5495"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2030
+    },
+    {
+      "id": "ca-senate-dave-cortese",
+      "name": "Dave Cortese",
+      "sourceName": "Dave Cortese",
+      "party": "Democratic",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/CORTESE%252C%2520DAVE%2520%2528D-15%2529_6.jpg?itok=Yts7GSsl",
+      "district": 15,
+      "seatId": "ca-senate-15",
+      "profileUrl": "https://sd15.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD15&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 7520, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4015"
+        },
+        {
+          "kind": "district",
+          "address": "1155 Meridian Avenue, Suite 100, San Jose, CA 95125",
+          "room": null,
+          "phone": "(408) 723-4154"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2028
+    },
+    {
+      "id": "ca-senate-melissa-hurtado",
+      "name": "Melissa Hurtado",
+      "sourceName": "Melissa Hurtado",
+      "party": "Democratic",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/HURTADO%252C%2520MELISSA%2520%2528D-16%2529_6.jpg?itok=VF6ShqaA",
+      "district": 16,
+      "seatId": "ca-senate-16",
+      "profileUrl": "https://sd16.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD16&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 6510, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4016"
+        },
+        {
+          "kind": "district",
+          "address": "5201 California Avenue, Suite 220, Bakersfield, CA 93309",
+          "room": null,
+          "phone": "(661) 395-2620"
+        },
+        {
+          "kind": "district",
+          "address": "411 East Kern Avenue, Tulare, CA 93274",
+          "room": null,
+          "phone": "(559) 685-1202"
+        },
+        {
+          "kind": "district",
+          "address": "339 West D Street, Suite E, Lemoore, CA 93245",
+          "room": null,
+          "phone": "(559) 924-1201"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2030
+    },
+    {
+      "id": "ca-senate-john-laird",
+      "name": "John Laird",
+      "sourceName": "John Laird",
+      "party": "Democratic",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/LAIRD%252C%2520JOHN%2520%2528D-17%2529_6.jpg?itok=wmob19vV",
+      "district": 17,
+      "seatId": "ca-senate-17",
+      "profileUrl": "https://sd17.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD17&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 8720, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4017"
+        },
+        {
+          "kind": "district",
+          "address": "99 Pacific Street, Suite 575 F, Monterey, CA 93940",
+          "room": null,
+          "phone": "(831) 657-6315"
+        },
+        {
+          "kind": "district",
+          "address": "1026 Palm Street, Suite 201, San Luis Obispo, CA 93401",
+          "room": null,
+          "phone": "(805) 549-3784"
+        },
+        {
+          "kind": "district",
+          "address": "701 Ocean Street, Suite 318A, Santa Cruz, CA 95060",
+          "room": null,
+          "phone": "(831) 425-0401"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2028
+    },
+    {
+      "id": "ca-senate-stephen-c-padilla",
+      "name": "Stephen C. Padilla",
+      "sourceName": "Stephen C. Padilla",
+      "party": "Democratic",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/PADILLA%252C%2520STEVE%2520%2528D-18%2529_9.jpg?itok=IE7q0UZ2",
+      "district": 18,
+      "seatId": "ca-senate-18",
+      "profileUrl": "https://sd18.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD18&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 7630, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4018"
+        },
+        {
+          "kind": "district",
+          "address": "1224 State Street, Suite D, El Centro, CA 92243",
+          "room": null,
+          "phone": "(760) 335-3442"
+        },
+        {
+          "kind": "district",
+          "address": "780 Bay Boulevard, Suite 204, Chula Vista, CA 91910",
+          "room": null,
+          "phone": "(619) 409-7690"
+        },
+        {
+          "kind": "district",
+          "address": "82013 Dr. Carreon Boulevard, Suite J, Indio, CA 92201",
+          "room": null,
+          "phone": "(760) 398-6442"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2030
+    },
+    {
+      "id": "ca-senate-rosilicie-ochoa-bogh",
+      "name": "Rosilicie Ochoa Bogh",
+      "sourceName": "Rosilicie Ochoa Bogh",
+      "party": "Republican",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/2025%2520Ochoa%2520Bogh%2520headshot_1_0.jpg?itok=b7OEZxj1",
+      "district": 19,
+      "seatId": "ca-senate-19",
+      "profileUrl": "https://sr19.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD19&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 7220, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4019"
+        },
+        {
+          "kind": "district",
+          "address": "1885 West Redlands Boulevard, Unit 8C, Redlands, CA 92374",
+          "room": null,
+          "phone": "(909) 335-0271"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2028
+    },
+    {
+      "id": "ca-senate-caroline-menjivar",
+      "name": "Caroline Menjivar",
+      "sourceName": "Caroline Menjivar",
+      "party": "Democratic",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/MENJIVAR%252C%2520CAROLINE%2520%2528D-20%2529_7.jpg?itok=gvoexhqY",
+      "district": 20,
+      "seatId": "ca-senate-20",
+      "profileUrl": "https://sd20.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD20&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 6630, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4020"
+        },
+        {
+          "kind": "district",
+          "address": "6150 Van Nuys Boulevard, Suite 400, Van Nuys, CA 91401",
+          "room": null,
+          "phone": "(818) 901-5588"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2030
+    },
+    {
+      "id": "ca-senate-monique-limon",
+      "name": "Monique Limón",
+      "sourceName": "Monique Limón",
+      "party": "Democratic",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/sd21_limon_0.jpg?itok=q8Ds_VyS",
+      "district": 21,
+      "seatId": "ca-senate-21",
+      "profileUrl": "https://sd21.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD21&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 8518, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4021"
+        },
+        {
+          "kind": "district",
+          "address": "300 E. Esplanade Drive, Suite 430, Oxnard, CA 93036",
+          "room": null,
+          "phone": "(805) 988-1940"
+        },
+        {
+          "kind": "district",
+          "address": "222 E. Carrillo Street, Suite 309, Santa Barbara, CA 93101",
+          "room": null,
+          "phone": "(805) 965-0862"
+        },
+        {
+          "kind": "district",
+          "address": "1111 S. Broadway, Suite 101, Santa Maria, CA 93454",
+          "room": null,
+          "phone": "(805) 346-1803"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2028
+    },
+    {
+      "id": "ca-senate-susan-rubio",
+      "name": "Susan Rubio",
+      "sourceName": "Susan Rubio",
+      "party": "Democratic",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/RUBIO%252C%2520SUSAN%2520%2528D-22%2529_7.jpg?itok=MA5lc81w",
+      "district": 22,
+      "seatId": "ca-senate-22",
+      "profileUrl": "https://sd22.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD22&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 8710, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4022"
+        },
+        {
+          "kind": "district",
+          "address": "100 South Vincent Avenue, Suite 401, West Covina, CA 91790",
+          "room": null,
+          "phone": "(626) 430-2499"
+        },
+        {
+          "kind": "district",
+          "address": "1520 North Mountain Avenue, Building E, Suite 201, Ontario, CA 91762",
+          "room": null,
+          "phone": "(909) 460-6064"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2030
+    },
+    {
+      "id": "ca-senate-suzette-martinez-valladares",
+      "name": "Suzette Martinez Valladares",
+      "sourceName": "Suzette Martinez Valladares",
+      "party": "Republican",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/Valladares%2520Headshot%2520update_1.JPG?itok=GEv3ONvB",
+      "district": 23,
+      "seatId": "ca-senate-23",
+      "profileUrl": "https://sr23.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD23&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 7140, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4023"
+        },
+        {
+          "kind": "district",
+          "address": "42505 10th Street W., Suite 109, Lancaster, CA 93534",
+          "room": null,
+          "phone": "(661) 729-6232"
+        },
+        {
+          "kind": "district",
+          "address": "25060 Avenue Stanford, Suite 130, Valencia, CA 91355",
+          "room": null,
+          "phone": "(661) 257-1204"
+        },
+        {
+          "kind": "district",
+          "address": "11600 Air Expressway, Adelanto, CA 92301",
+          "room": null,
+          "phone": "(760) 246-2911"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2028
+    },
+    {
+      "id": "ca-senate-benjamin-allen",
+      "name": "Benjamin Allen",
+      "sourceName": "Benjamin Allen",
+      "party": "Democratic",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/ALLEN%252C%2520BEN%2520%2528D-26%2529_6.jpg?itok=mtLxm_Xt",
+      "district": 24,
+      "seatId": "ca-senate-24",
+      "profileUrl": "https://sd24.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD24&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 7610, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4024"
+        },
+        {
+          "kind": "district",
+          "address": "111 Penn Street, Suite 101, El Segundo, CA 90245",
+          "room": null,
+          "phone": "(310) 414-8190"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2030
+    },
+    {
+      "id": "ca-senate-sasha-renee-perez",
+      "name": "Sasha Renée Pérez",
+      "sourceName": "Sasha Renée Pérez",
+      "party": "Democratic",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/Senator%2520Perez_2.jpg?itok=NGozJTrK",
+      "district": 25,
+      "seatId": "ca-senate-25",
+      "profileUrl": "https://sd25.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD25&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 6720, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4025"
+        },
+        {
+          "kind": "district",
+          "address": "215 North Marengo Avenue, Suite 380, Pasadena, CA 91101",
+          "room": null,
+          "phone": "(626) 304-1086"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2028
+    },
+    {
+      "id": "ca-senate-maria-elena-durazo",
+      "name": "María Elena Durazo",
+      "sourceName": "María Elena Durazo",
+      "party": "Democratic",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/DURAZO%252C%2520M%2520%2528D-26%2529_9.jpg?itok=NylONhX6",
+      "district": 26,
+      "seatId": "ca-senate-26",
+      "profileUrl": "https://sd26.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD26&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 7530, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4026"
+        },
+        {
+          "kind": "district",
+          "address": "1808 West Sunset Boulevard, Los Angeles, CA 90026",
+          "room": null,
+          "phone": "(213) 483-9300"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2030
+    },
+    {
+      "id": "ca-senate-henry-i-stern",
+      "name": "Henry I. Stern",
+      "sourceName": "Henry I. Stern",
+      "party": "Democratic",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/STERN%252C%2520HENRY%2520%2528D-27%2529_8.jpg?itok=ellN7kQe",
+      "district": 27,
+      "seatId": "ca-senate-27",
+      "profileUrl": "https://sd27.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD27&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 7710, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4027"
+        },
+        {
+          "kind": "district",
+          "address": "14724 Ventura Boulevard, Suite 1115, Sherman Oaks, CA 91403",
+          "room": null,
+          "phone": "(818) 501-0650"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2028
+    },
+    {
+      "id": "ca-senate-lola-smallwood-cuevas",
+      "name": "Lola Smallwood-Cuevas",
+      "sourceName": "Lola Smallwood-Cuevas",
+      "party": "Democratic",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/Smallwood-Cuevas_Headshot_08-12-26-LH-1-1.png?itok=DM3Mn868",
+      "district": 28,
+      "seatId": "ca-senate-28",
+      "profileUrl": "https://sd28.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD28&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 6530, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4028"
+        },
+        {
+          "kind": "district",
+          "address": "700 Exposition Park Drive, Los Angeles, CA 90037",
+          "room": null,
+          "phone": "(213) 745-6656"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2030
+    },
+    {
+      "id": "ca-senate-eloise-gomez-reyes",
+      "name": "Eloise Gómez Reyes",
+      "sourceName": "Eloise Gómez Reyes",
+      "party": "Democratic",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/Portrait%2520Reyes%25201_2.jpg?itok=lNV5OHK_",
+      "district": 29,
+      "seatId": "ca-senate-29",
+      "profileUrl": "https://sd29.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD29&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 7210, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4029"
+        },
+        {
+          "kind": "district",
+          "address": "301 E. Vanderbilt Way, Suite 400, San Bernardino, CA 92408",
+          "room": null,
+          "phone": "(909) 888-5360"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2028
+    },
+    {
+      "id": "ca-senate-bob-archuleta",
+      "name": "Bob Archuleta",
+      "sourceName": "Bob Archuleta",
+      "party": "Democratic",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/ARCHULETA%252C%2520BOB%2520%2528D-30%2529_7.jpg?itok=34GxU0iC",
+      "district": 30,
+      "seatId": "ca-senate-30",
+      "profileUrl": "https://sd30.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD30&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 6620, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4030"
+        },
+        {
+          "kind": "district",
+          "address": "12501 Imperial Highway, Suite 110, Norwalk, CA 90650",
+          "room": null,
+          "phone": "(562) 406-1001"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2030
+    },
+    {
+      "id": "ca-senate-sabrina-cervantes",
+      "name": "Sabrina Cervantes",
+      "sourceName": "Sabrina Cervantes",
+      "party": "Democratic",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/Portrait%2520Cervantes_2.jpg?itok=qImOJI-F",
+      "district": 31,
+      "seatId": "ca-senate-31",
+      "profileUrl": "https://sd31.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD31&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 7330, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4031"
+        },
+        {
+          "kind": "district",
+          "address": "1533 Spruce Street, Suite 230, Riverside, CA 92507",
+          "room": null,
+          "phone": "(951) 680-6750"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2028
+    },
+    {
+      "id": "ca-senate-kelly-seyarto",
+      "name": "Kelly Seyarto",
+      "sourceName": "Kelly Seyarto",
+      "party": "Republican",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/SEYARTO%252C%2520KELLY%2520%2528R-32%2529_5.jpg?itok=fSe1WzQY",
+      "district": 32,
+      "seatId": "ca-senate-32",
+      "profileUrl": "https://sr32.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD32&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 7120, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4032"
+        },
+        {
+          "kind": "district",
+          "address": "24640 Jefferson Avenue, Suite 202, Murrieta, CA 92562",
+          "room": null,
+          "phone": "(951) 894-2220"
+        },
+        {
+          "kind": "district",
+          "address": "4740 Green River Road, Suite 212, Corona, CA 92878",
+          "room": null,
+          "phone": "(951) 280-1260"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2030
+    },
+    {
+      "id": "ca-senate-lena-a-gonzalez",
+      "name": "Lena A. Gonzalez",
+      "sourceName": "Lena A. Gonzalez",
+      "party": "Democratic",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/GONZALEZ%252C%2520LENA%2520%2528D-33%2529_9.jpg?itok=ylLC-ynv",
+      "district": 33,
+      "seatId": "ca-senate-33",
+      "profileUrl": "https://sd33.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD33&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 7510, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4033"
+        },
+        {
+          "kind": "district",
+          "address": "3939 Atlantic Avenue, Suite 107, Long Beach, CA 90807",
+          "room": null,
+          "phone": "(562) 256-7921"
+        },
+        {
+          "kind": "district",
+          "address": "3355 East Gage Avenue, Huntington Park, CA 90255",
+          "room": null,
+          "phone": "(323) 277-4560"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2028
+    },
+    {
+      "id": "ca-senate-thomas-j-umberg",
+      "name": "Thomas J. Umberg",
+      "sourceName": "Thomas J. Umberg",
+      "party": "Democratic",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/UMBERG%252C%2520TOM%2520%2528D-34%2529_7.jpg?itok=0YQS9Jjz",
+      "district": 34,
+      "seatId": "ca-senate-34",
+      "profileUrl": "https://sd34.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD34&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 6610, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4034"
+        },
+        {
+          "kind": "district",
+          "address": "1000 East Santa Ana Boulevard, Suite 220B, Santa Ana, CA 92701",
+          "room": null,
+          "phone": "(714) 558-3785"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2030
+    },
+    {
+      "id": "ca-senate-laura-richardson",
+      "name": "Laura Richardson",
+      "sourceName": "Laura Richardson",
+      "party": "Democratic",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/Portrait%2520Richardson_1.jpg?itok=xlLMqA31",
+      "district": 35,
+      "seatId": "ca-senate-35",
+      "profileUrl": "https://sd35.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD35&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Room 7340, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4035"
+        },
+        {
+          "kind": "district",
+          "address": "One West Manchester Boulevard, Suite 710, Inglewood, CA 90301",
+          "room": null,
+          "phone": "(310) 412-6120"
+        },
+        {
+          "kind": "district",
+          "address": "970 West 190th Street, Suite 310, Torrance, CA 90502",
+          "room": null,
+          "phone": "(310) 217-4728"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2028
+    },
+    {
+      "id": "ca-senate-tony-strickland",
+      "name": "Tony Strickland",
+      "sourceName": "Tony Strickland",
+      "party": "Republican",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/Senator%2520Strickland%2520Headshot%2520SD36_2.jpg?itok=pZE7UY0v",
+      "district": 36,
+      "seatId": "ca-senate-36",
+      "profileUrl": "https://sr36.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD36&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 6730, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4036"
+        },
+        {
+          "kind": "district",
+          "address": "301 Main Street, Suite 212, Huntington Beach, CA 92648",
+          "room": null,
+          "phone": "(714) 374-4000"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2030
+    },
+    {
+      "id": "ca-senate-steven-s-choi-ph-d",
+      "name": "Steven S. Choi Ph.D.",
+      "sourceName": "Steven S. Choi Ph.D.",
+      "party": "Republican",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/2016%2520New%2520Member%2520Headshots%2520Choi-268_3.jpg?itok=1pOlNotm",
+      "district": 37,
+      "seatId": "ca-senate-37",
+      "profileUrl": "https://sr37.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD37&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 7130, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4037"
+        },
+        {
+          "kind": "district",
+          "address": "3200 El Camino Real, Suite 230, Irvine, CA 92602",
+          "room": null,
+          "phone": "(714) 544-1035"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2028
+    },
+    {
+      "id": "ca-senate-catherine-s-blakespear",
+      "name": "Catherine S. Blakespear",
+      "sourceName": "Catherine S. Blakespear",
+      "party": "Democratic",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/BLAKESPEAR%252C%2520CATHERINE%2520%2528D%2520-38%2529_9.jpg?itok=AbZqc0Zp",
+      "district": 38,
+      "seatId": "ca-senate-38",
+      "profileUrl": "https://sd38.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD38&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 7720, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4038"
+        },
+        {
+          "kind": "district",
+          "address": "2385 Camino Vida Roble, Unit 205, Carlsbad, CA 92011",
+          "room": null,
+          "phone": "(760) 438-2005"
+        },
+        {
+          "kind": "district",
+          "address": "24031 El Toro Road, Suite 201A, Laguna Hills, CA 92653",
+          "room": null,
+          "phone": "(949) 598-5850"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2030
+    },
+    {
+      "id": "ca-senate-akilah-weber-pierson-m-d",
+      "name": "Akilah Weber Pierson M.D.",
+      "sourceName": "Akilah Weber Pierson M.D.",
+      "party": "Democratic",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/Portrait%2520Weber_3.jpg?itok=eoRYP-Z8",
+      "district": 39,
+      "seatId": "ca-senate-39",
+      "profileUrl": "https://sd39.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD39&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Room 7310, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4039"
+        },
+        {
+          "kind": "district",
+          "address": "7575 Metropolitan Drive, Suite 100, San Diego, CA 92108",
+          "room": null,
+          "phone": "(619) 688-6700"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2028
+    },
+    {
+      "id": "ca-senate-brian-w-jones",
+      "name": "Brian W. Jones",
+      "sourceName": "Brian W. Jones",
+      "party": "Republican",
+      "portraitUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/styles/large/public/media/Brian%2520Jones%2520Headshot%2520%2528Main%2529_0_3.jpg?itok=P7SsCS8_",
+      "district": 40,
+      "seatId": "ca-senate-40",
+      "profileUrl": "https://sr40.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD40&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 7640, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4040"
+        },
+        {
+          "kind": "district",
+          "address": "10650 Treena Street, Suite 110, San Diego, CA 92131",
+          "room": null,
+          "phone": "(858) 547-3818"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "nextElectionYear": 2030
+    }
+  ],
+  "vacancies": [
+    {
+      "district": 10,
+      "seatId": "ca-senate-10",
+      "profileUrl": "https://sd10.senate.ca.gov/",
+      "contactUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD10&inframe=N",
+      "counties": null,
+      "offices": [
+        {
+          "kind": "capitol",
+          "address": "Capitol Office, 1021 O Street, Suite 8530, Sacramento, CA 95814-4900",
+          "room": null,
+          "phone": "(916) 651-4410"
+        }
+      ],
+      "sourceUrls": ["https://www.senate.ca.gov/senators"],
+      "verifiedAt": "2026-11-20T02:28:01.377Z",
+      "status": "vacant",
+      "nextElectionYear": 2030
+    }
+  ],
+  "electionSchedule": {
+    "asOf": "2026-11-20T02:41:20.937Z",
+    "kind": "next-regular-seat-election",
+    "sourceUrls": [
+      "https://www.senate.ca.gov/citizens-guide/faqs",
+      "https://clerk.assembly.ca.gov/legislative-information/elected-officials",
+      "https://www.gov.ca.gov/2026/06/08/governor-newsom-issues-proclamation-declaring-californias-2026-general-election/"
+    ]
+  }
+}
