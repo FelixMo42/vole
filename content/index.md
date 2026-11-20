@@ -19,7 +19,7 @@
 
 ## Predictions
 
-| Question                                                                                                                                                                                                                                                                              | p   | date        | source                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | ----------- | ------------------------------------------------------------------------- |
-| Will CA limit the amount of compute that AI labs are allowed to access or use? | 7%  | Nov 19 2026 | https://futuresearch.ai/app/p/a/will-california-have-enacted-and-put-into |
-| Will California have enacted and put into effect, by December 31, 2028, a law or binding regulation that limits the amount of compute (e.g., data center capacity, power or electricity allocation, chips, or training compute) that AI labs/developers are allowed to access or use?
+| Question                                                                     | p   | date        | source                                                                      |
+| ---------------------------------------------------------------------------- | --- | ----------- | --------------------------------------------------------------------------- |
+| Will CA limit the amount of compute that AI labs can use by the end of 2027? | 7%  | Nov 19 2026 | https://futuresearch.ai/app/p/a/will-california-have-enacted-and-put-into   |
+| Will CA limit the amount of compute that AI labs can use by the end of 2028? | 12% | Nov 19 2026 | https://futuresearch.ai/app/p/a/will-california-have-enacted-and-put-into-2 |
